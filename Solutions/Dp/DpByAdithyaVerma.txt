@@ -1,0 +1,38 @@
+//0-1 Knapsack
+1.https://ide.geeksforgeeks.org/cAs1T9ahXF   //0-1 Knapsack Memoized.
+2.https://ide.geeksforgeeks.org/R1jyZnkVPN   //0-1 Knapsack Tabulation.
+3.https://ide.geeksforgeeks.org/WwFIZXCpPo   //Subset sum and Equal sum Partition
+4.https://ide.geeksforgeeks.org/lIRaRQZRsw   //Count subsets with given sum.
+5.https://ide.geeksforgeeks.org/6i9r2j0HTF        //Minimum sum partition.
+6.https://ide.geeksforgeeks.org/zoqKLNkIlM      //Subsets with given difference.(Total Array elements ni rendu sets lo consider chestadu chusko)
+7.https://ide.geeksforgeeks.org/SZvm6RhqUo    //Target sum.
+
+//Unbounded Knapsack.
+//Identification unlimited supply of each item.
+1.https://ide.geeksforgeeks.org/lp8H2rU3J1   //Unbounded knapsack.
+2.https://ide.geeksforgeeks.org/kFplp09Ahj   //Rod cutting problem.
+3.https://ide.geeksforgeeks.org/kFplp09Ahj   Same link paste chesa because unbounded knapsack//Coin change problem.(unbounded knapsack kabatti unlimited supply of coins).(limited supply of coins ayithe Greedy use avuthundi.)
+4.https://ide.geeksforgeeks.org/CS65J2l1xy     //Minimum number of coins that are needed to form a particular sum.
+
+//Longest common subsequence question.
+Identification 2 strings and optimality.(Shortest or longest).
+1.https://ide.geeksforgeeks.org/0aihGoBo5S    //Longest common subsequence tabulation.
+2.https://ide.geeksforgeeks.org/p3txTQwOCg    //longest common substring.
+3.Printing the longest common subsequence chudaledu.Check that out.
+4.https://ide.geeksforgeeks.org/EedOtTqzcf   //Minimum number of insertions and minimum number of deletions to convert string a  to string b.
+5.https://ide.geeksforgeeks.org/89E9ZZr6wY   //Minimum number of deltions to make a string palindrome.
+6.Printing the shortest common supersequence cheyaledu.
+7.https://ide.geeksforgeeks.org/4HZIKPNq3y     //Longest repeating subsequence.
+8.https://ide.geeksforgeeks.org/zYciuEaq1l         //Minimum number of insertions to be made to convert a string into palindrome.
+9.https://ide.geeksforgeeks.org/Zijj0FJfB9  //Check if one string is subsequence of another.
+
+//Matrix chain Multiplication:
+1.https://ide.geeksforgeeks.org/PzvaHMWfBz //MCM memoized.(MCM brackets print chesedi chusko).
+2.https://ide.geeksforgeeks.org/yOUEQKobo2 //Palindrome partitioning.
+3.Scrambled string malli chuudu.
+4.
+
+
+
+
+

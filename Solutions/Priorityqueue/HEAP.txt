@@ -1,0 +1,6 @@
+1.https://ide.geeksforgeeks.org/gMnMhM3owX //Kth smallest element ...in  nlogk
+2.https://ide.geeksforgeeks.org/SVGOZ0Z8Wr    //Find the smallest sum that can be formed with two numbers that are formed with
+elements of an array.
+3.https://ide.geeksforgeeks.org/FsnbvT39ax    //HEAP SORT (TBR)
+4.https://ide.geeksforgeeks.org/4fdC0KEBVk   //Kth largest element in the stream 
+5.

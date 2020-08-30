@@ -1,0 +1,5 @@
+1.https://ide.geeksforgeeks.org/3dqNb3QkVR     //Sum of bit differences O(n^2)
+2.https://ide.geeksforgeeks.org/C6K0TsyhSF      //Sum of bit differences O(n)
+3.https://ide.geeksforgeeks.org/3F9HyKV1cc      //Minimum Swaps to Sort
+4.https://ide.geeksforgeeks.org/jzBvLIPgV1       //rearrange array elements with O(1) space
+5.

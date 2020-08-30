@@ -1,0 +1,37 @@
+1.https://ide.geeksforgeeks.org/x5tz2dsIYa //Kindha question ni O(n^2) time lo.
+2.https://ide.geeksforgeeks.org/PDdxxGtlf0 //Count the subarrays with equal no of zeroes and ones in O(n) time with using extra space.
+3.https://ide.geeksforgeeks.org/PDdxxGtlf0  //Count the subarrays with the given sum handling negative numbers.
+4.Longest consecutive subsequence O(nlogn) lo solve cheyali ante just sort the array and then count the maximum length of consecutive numbers.
+5.https://ide.geeksforgeeks.org/kOKgC0fed6  //Above question using Hashing O(n) time but uses extra space.
+6.https://ide.geeksforgeeks.org/pFpsBC35MF    //Smallest window that has all the distinct characters of a string/
+7.https://ide.geeksforgeeks.org/yxbiaIcQBl        //Smallest window that has all the characters of another string.
+8.https://ide.geeksforgeeks.org/O822orm371    //Match specific pattern.
+9.https://ide.geeksforgeeks.org/k6iM4D4UD7    //Minimum indexed string.
+10.https://ide.geeksforgeeks.org/rIPkMADPwk//Substrings with equal start and end.
+11.https://ide.geeksforgeeks.org/W3rSWXtVGU    //Unique numbers.
+12.https://ide.geeksforgeeks.org/detoLdttax          //Repeated character.
+13.https://ide.geeksforgeeks.org/iFcx4dPcQE      //Uncommon Character.
+14.https://ide.geeksforgeeks.org/PysVNiuuhG      //Group anagrams together.
+15.https://ide.geeksforgeeks.org/clg1ebbvPS     //Subarray with zero sum.	
+16.https://ide.geeksforgeeks.org/sdxekdiDyU     //Largest subarray with sum=0;
+17.https://ide.geeksforgeeks.org/zC2w6FcyUL //maximum product subarray in O(n^2).
+18.https://ide.geeksforgeeks.org/g9CQ1eIewS    //Kadanes algorithm for maximum contiguos subarray.
+19. https://ide.geeksforgeeks.org/bADbAiZex0    //Maximum product of array .(Batti pattu)
+20.https://ide.geeksforgeeks.org/Qqdt8WLcLl   //Find the first repeated character which has the least index.
+21.https://ide.geeksforgeeks.org/s62wiF0PzX    //2nd Array is the subset of another array.
+22.https://ide.geeksforgeeks.org/nRBJ0ZYQBd   //Subarray with zero sum.
+23.https://ide.geeksforgeeks.org/pxhenwIcru   //Count distinct elements in each and every window of size k.
+
+24.https://ide.geeksforgeeks.org/f4hA0HCAY4   //Anagram Palindrome.
+25.https://ide.geeksforgeeks.org/Uhaq5F88MA   //Count the number of elements in the intersection of two arrays.
+26.https://ide.geeksforgeeks.org/Gx1mzLJ4bC    //Keypair(Find if the pair exists with the givensum,i used two pointer technique.).
+27.https://ide.geeksforgeeks.org/tBMLumKmti     //O(n) using hashing above question.
+28.https://ide.geeksforgeeks.org/5DFhmPzJiJ     //IsBinary number a multiple of 3.
+29.https://ide.geeksforgeeks.org/9Gdm71dihg     //Longest k unique characters in a substring.
+30.https://ide.geeksforgeeks.org/jQNbw4k1dc     //Winner of  election.
+31.https://ide.geeksforgeeks.org/Ti3Qd0PU8w    //Longest substring with equal number of 0s and 1s 
+32.https://ide.geeksforgeeks.org/iJmgx4pq7t        //Longest subarray with sum divisible by k.
+33.https://ide.geeksforgeeks.org/8RifGbufnn        ///Maximum number of characters between any two same character 
+34.https://ide.geeksforgeeks.org/F0Z7vAexeg     //Frequencies of Limited Range Array Elements 
+35.https://ide.geeksforgeeks.org/HH5Zuefwug     //First non repeating element.
+36. 

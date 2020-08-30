@@ -1,0 +1,114 @@
+1.https://ide.geeksforgeeks.org/DNoo59BftM   //Find the duplicate in an array of N integers. 
+
+2.https://ide.geeksforgeeks.org/j8L7QfjQP7   //Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
+
+3.https://ide.geeksforgeeks.org/BbpHCL0scy    //Boolean matrix question //just row and column vector use chesi aa arrays  lo mark cheskotam and then matrix ni traverse chestu aa row lo anna column lo anna 1 unte matrix[i][j]=1 cheyatam.
+Constant space ante use first row and first column of matrix itself as arrays.Deeniki row flag and column flag use avuthayi.Avi marchipoku because 1 st row and column ki mark cheskuneki undevi only 1 cell of matrix.
+	
+4.https://ide.geeksforgeeks.org/qJwtxIwOnB     //Next permutation
+
+5.//https://ide.geeksforgeeks.org/JdrpEvNfdF  //Inversions in an array 
+
+6.Rotate matrix by 90 degrees.(Without extra space logic:Do a transpose and reverse columns one by one,you will get a 90* rotated image).
+https://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/      (Remember transposing(Just  swapping arr[ i ] [ j ] with arr[ j ] [ i ],Note that
+ee process lo malli  swap chesina element ne swap chese chance undi,so start j loop with i.)in place logic,reversing inplace logic.)
+
+7.https://ide.geeksforgeeks.org/IEzQA4UJim    //Pascals triangle.
+
+8.https://ide.geeksforgeeks.org/NIHn67iqYT    //Excel column  number.
+
+9.https://ide.geeksforgeeks.org/d4eMw9OV6K    //Count the trailing zeroes in the  n!
+
+10.GCD of number in logn.  //https://ide.geeksforgeeks.org/VxSgsRIuIT    //Euclids algorithm.
+
+11.Two sum problem.Return indices of two numbers that result in the given sum.Sorting two pointer.Maps O(n).
+
+12.https://ide.geeksforgeeks.org/fNNyBSQheP   //Count of subarrays with the given XOR.
+
+13.https://ide.geeksforgeeks.org/TdA9AnNlGX    //Longest substring with all the distinct characters.
+
+14.Subarray with the given sum question Telusu ga.
+
+15.Longest consecutive subsequence.  https://ide.geeksforgeeks.org/M40cZN0Qrh
+
+15.https://ide.geeksforgeeks.org/TA1xYe06nQ   //Four sum problem.
+
+16.https://ide.geeksforgeeks.org/0UoFGLT3vK    //Reverse a linked list.
+
+17.https://ide.geeksforgeeks.org/FCzghoYWo5    //Middle of linked list.
+
+18.https://ide.geeksforgeeks.org/BQKRklaB20     //Merge two sorted linked list.
+https://ide.geeksforgeeks.org/YFQ0Q7SIbp        //Merge two sorted linked list without using extra space.
+
+19.https://ide.geeksforgeeks.org/GE99YvXn0L   //Delete a node without head pointer.
+
+20.https://ide.geeksforgeeks.org/iJusjiMrYB   //Remove nth node from the end.
+
+21.https://ide.geeksforgeeks.org/b3JV0SUrtN    //Add two numbers represented as linked lists.
+
+22.https://ide.geeksforgeeks.org/lb1vEiOBrc    //intersection of two Y shaped linked lists.
+
+23.https://ide.geeksforgeeks.org/tmfXbwNBOK //Clone a linked list with random pointer in O(n) space.
+
+24.https://ide.geeksforgeeks.org/CQj4GxVGDv  //Clone a linked list with random pointer in O(1) space.
+
+25.https://ide.geeksforgeeks.org/M2JsRppQus    //Check if the linked list is palindrome or not.
+
+26.https://ide.geeksforgeeks.org/hN4K2mHEQI   //Reverse linked list in the groups of given size.
+
+27.https://ide.geeksforgeeks.org/02kTr8DXhL  //Flattening of linked lists.
+
+28.https://ide.geeksforgeeks.org/qWGqXffay0    //Rotate a linked list.
+
+29.https://ide.geeksforgeeks.org/wHaiqipvNX   //Detect a loop in linked list.
+
+30.https://ide.geeksforgeeks.org/7K0zOdTduc  //Remove duplicates from the sorted array(Without extra space.)
+
+31.maximum contiguous number of ones.Idhi simple question.
+
+Greedy:Sort cheyali anthe anni problems lo.
+
+32.https://ide.geeksforgeeks.org/UipzPjRRrA  //Coin change DP.   (Coin change greedy normal sort chesi yekkuva value nundi one by one sum lonchi remove chestu raavatam and final ga return chey coins number).
+
+32:sort by coin values.(DECREASING ORDER)
+
+33.https://ide.geeksforgeeks.org/9nlqrA4wBl   //Fractional Knapsack(Both bounded and unbounded).(value/weight sort).(DECREASING ORDER).
+
+34.https://ide.geeksforgeeks.org/BgtMnwTUYU   //Minimum number of platforms.(Anni kalipi sort)(INCREASING ORDER)
+
+35.https://ide.geeksforgeeks.org/0gCMJEFWq5   //Job sequencing  problem. (profit ni batti sort).(DECREASING ORDER).
+
+36.https://ide.geeksforgeeks.org/RhmSfklmwD   //Spiral order traversal of binary tree.
+
+37.https://ide.geeksforgeeks.org/FLYQpQ6GSm   //N queen problem.
+
+38.https://ide.geeksforgeeks.org/nSADE2e0DS  //Combination Sum
+https://practice.geeksforgeeks.org/problems/combination-sum/0
+
+39.https://ide.geeksforgeeks.org/uHSDSdCoRL    //Combination sum  part 2.
+
+Divide and Conquer::
+
+40.https://ide.geeksforgeeks.org/0reAuVGIU1  //Median in rowwise and column wise sorted matrix.
+
+41.https://ide.geeksforgeeks.org/WGN7YE3DE8  //Find the element that occurs once when every element occurs twice.
+
+42.https://ide.geeksforgeeks.org/PUJWNogADj   //Search for minimum element in the array.
+
+43.https://ide.geeksforgeeks.org/voyRa8GyTr //Search element in sorted  and rotated array.
+
+44.https://ide.geeksforgeeks.org/leyR4uI2bo  //Median in two sorted arrays.
+
+45.https://ide.geeksforgeeks.org/MMS0c7y279  //Floor of an element in sorted arrray.
+
+46.https://ide.geeksforgeeks.org/FV2uRu5yLM   //Next alphabetical element.
+
+Strings:----
+
+1.Reverse words in the given stirng simple.Anduke raayaledu.
+
+2.
+
+
+
+

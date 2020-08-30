@@ -1,0 +1,83 @@
+1.https://ide.geeksforgeeks.org/sh5t08RBcH //Missing elements in AP
+2.https://ide.geeksforgeeks.org/M6npYMRcma Doubling the values.
+3.https://ide.geeksforgeeks.org/5i08dDxbtt  //Sum of digits  of number is palindrome or not.
+4.https://ide.geeksforgeeks.org/wFhzTgH1qf //Binary to Decimal
+5.https://ide.geeksforgeeks.org/vMbvM7YOal  /Addition of submatrix,
+6.https://ide.geeksforgeeks.org/aNH1Dp3aej    //if all the bits are set in a given num.
+7.https://ide.geeksforgeeks.org/BCSnYFfdbf   //Count the elements 
+8.https://ide.geeksforgeeks.org/6HrjPrdBWL   //Greater on right side.
+9.https://ide.geeksforgeeks.org/w9JK1eftKQ  //Finding position  //Logical.
+10.https://ide.geeksforgeeks.org/nslLmL0grq //Logical.
+11.https://ide.geeksforgeeks.org/DRrxDPhASg //Use of lower_bound Binary search.
+12.https://ide.geeksforgeeks.org/J0KVgsVYte //Rotate without extra space
+13.https://ide.geeksforgeeks.org/mmwST8QXOo   //Try with count 
+14.https://ide.geeksforgeeks.org/dvdixCxjQt  //missing and repeating elements...Try with sum of first n elements.
+15.https://ide.geeksforgeeks.org/WHVgmIiUpp  //TRy with O(n)...count of pairs with sum k.
+16.https://ide.geeksforgeeks.org/ZxwGsc97Ky    //Maximum GAP.
+17.https://ide.geeksforgeeks.org/5kugDwsPX0     //Pattern Searching.
+18.https://ide.geeksforgeeks.org/7XujuR0cIh   //a^b mod in for loop.
+19.https://practice.geeksforgeeks.org/problems/sum-of-lengths-of-non-overlapping-subarrays/0    //Try for O(n) using 2 pointers. sliding window.
+20.https://ide.geeksforgeeks.org/kuAvVhNX2H///REmove all duplicates from string.
+21.https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0/   logn is binary search.
+22.https://ide.geeksforgeeks.org/bQdAuV733c  //Majority element.
+23.https://ide.geeksforgeeks.org/1HXkie47X9     //Find the odd occurence.
+24.https://ide.geeksforgeeks.org/oI80ZlidGO   //Missing number in array.
+25.https://ide.geeksforgeeks.org/GknGEVxtp5 //EQUILLIBRIUM POINT .
+26.https://ide.geeksforgeeks.org/FAvSKnPl81  //Never forget that each and every sum yenni sarlu vachchindo anni
+count ki add cheyali ani bcoz usually index or alantivi store chestam kadha ..So here count+=m1[sum].coz that many subarrays are there with that sum.Count of Subarrays with the given sum.IMPORTANT(TBR)	
+27.https://ide.geeksforgeeks.org/qMx1HqZWwl    //Minimum indexed character.
+28.https://ide.geeksforgeeks.org/CAt0ow5Eba   //Repetetive addition of digits
+29.https://ide.geeksforgeeks.org/gYyzfgmy0y //Twice Counter.
+30.https://ide.geeksforgeeks.org/no8venvnut     //Second most repeated string.
+31.https://ide.geeksforgeeks.org/E1AS4DWDa //Sum of all numbers in stirng in O(n)
+32.https://ide.geeksforgeeks.org/wcksSzwDbm   //Extract Maximum.
+33.https://ide.geeksforgeeks.org/T5NtN0GFtG   //Maximum in bitonic array.
+34.https://ide.geeksforgeeks.org/gbmVNM8SzO     //Maximum product of two numbers.O(n) Never Forget "else if" its not "if".
+35.https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1    //Remember this problem can produce error
+with even the for loop running n times and high as "n" ..So high "h" must be upto n-1 and for loop upto n-2.
+36.https://ide.geeksforgeeks.org/eOAeZLU7GC   //O(logn) using Binary search Index of first 1. in sorted arrar
+37.https://ide.geeksforgeeks.org/Dks0cI1RkU //immediate smaller element.
+38.https://ide.geeksforgeeks.org/87jykhood6    //First repeating element.
+39.https://ide.geeksforgeeks.org/SUBDfSO1aO    //Case specific sorting of string
+40.https://ide.geeksforgeeks.org/1vDpn7bPvT     //Number following a pattern. Dont forget this soln.
+41.https://ide.geeksforgeeks.org/b87AyzPHkC  //Largest number formed from array elements.
+42.https://ide.geeksforgeeks.org/ssxnm54xbe     //rotate and delete  REMEMBER THE FORMULA:) MUGGUP:)
+43.https://ide.geeksforgeeks.org/oBxNdcVui7     //Maximum INDEX 
+44.https://ide.geeksforgeeks.org/kMXBDqf17b  //Trapping Rain water.
+45.https://ide.geeksforgeeks.org/EvYDWze6JM     //Decode The pattern IMPORTANT(TBR)
+46.https://ide.geeksforgeeks.org/ZDEGz4ihmD   //Longest common Substring. Adithya Verma
+47.https://ide.geeksforgeeks.org/RHIhO5GWu7   //Reverse words . If pointer is given to string then last character is NULL.
+48.https://ide.geeksforgeeks.org/LsGwQLkl5p   //Check whether string is pangram.
+49.https://ide.geeksforgeeks.org/1qqv4hv5AG   //mINIMUM INDEXED CHARACTER.
+50.https://ide.geeksforgeeks.org/GZ8pcv8aN3 //Modified string.
+51.https://ide.geeksforgeeks.org/StoTAvGse9     //Length of longest Substring with all distinct characters IMPORTANT.Using Unordered_map(TBR)
+52.https://ide.geeksforgeeks.org/35PIQIvdj4   //longest palindromic subsequence.AdithyaVerma
+53.https://ide.geeksforgeeks.org/eB2rRFhb9X    //Smallest ditinct window that contains all characters of given string.Umap Soln..IMPORTANT (TBR)
+54.https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0/      (TBR) Same as above question with slight modification in count.
+55.https://ide.geeksforgeeks.org/PIUgH6nKs2    //Non Repeating Character.
+56.https://ide.geeksforgeeks.org/33x1cYY4oO   //Reverse words of given string.
+58.https://ide.geeksforgeeks.org/GBYdYwkHeS    //Common Subsequence.(TBR)
+59.https://ide.geeksforgeeks.org/mBAGrajbOU    //Replace by X (TBR)
+60.https://ide.geeksforgeeks.org/JmlhbbSmZ7    //Consecutive Elements :Since length of string modifies all the time..Note that.in while loop.
+61.Count of subarrays with the given sum https://ide.geeksforgeeks.org/lTDOTWBW93   //(TBR)
+62.longest Subarray with the given sum  https://ide.geeksforgeeks.org/f9nqZWxIBt    //(TBR)
+63.https://ide.geeksforgeeks.org/TaOpj2cgK0    //in Xoring All the elements initialize x with zero.
+64.https://ide.geeksforgeeks.org/OMDEYNQQ79    //Flip Bits (TBR)
+65.https://ide.geeksforgeeks.org/5ncG62YZOa    //Finding Number Bitonic array.Normal ga chesey.
+66.https://ide.geeksforgeeks.org/7GjF17yoRL   //Use boost libraries.
+67.https://ide.geeksforgeeks.org/6mraHBOYsA    //Sum equals sum.(TBR).
+68.https://ide.geeksforgeeks.org/TtYPCMfw93    //Index of an extra element (Binary search)
+69.https://ide.geeksforgeeks.org/DvRhnlziCH      //Peak element   (Binary Search).
+70.https://ide.geeksforgeeks.org/BO0VDxUCFu    //move all zeroes to end of array.(TBR)
+71.https://ide.geeksforgeeks.org/L3f66Iqo8s    //Anagrams
+72.https://ide.geeksforgeeks.org/EkBuvulQSd      //Remove duplicates
+73.https://ide.geeksforgeeks.org/T4AiKv9wt3   //product array puzzle
+74.https://ide.geeksforgeeks.org/uJMybgFoHv     //Find duplicates in array in O(n) time and O(1) space(TBR)
+75.https://ide.geeksforgeeks.org/4VZJE6r7NQ    //(TBR) maximum of all the subarrays of size k.
+76.https://ide.geeksforgeeks.org/ZduPaofIj4  //(TBR) First negative integer in all subarrays of size k..Just modification to the above code.
+77.https://ide.geeksforgeeks.org/sH3NnJhNLM  //(TBR)
+78.https://ide.geeksforgeeks.org/IwaBKvtN7n      //TBR 2 pointer technique finding out smallest subarray with sum>x ..jjust modification of subarray with given sum. using 2 pointers
+79.https://ide.geeksforgeeks.org/UKFT05siql    //Count substrings that start and end with one.
+80.https://ide.geeksforgeeks.org/F2UJ8RjkYp   //(TBR)
+81.https://ide.geeksforgeeks.org/XAtDe0TVQM   //Boolean Matrix problem (TBR) 
+82.https://ide.geeksforgeeks.org/BbpHCL0scy   //In above problem i have used unordered_set that gave tle so here i used 2 arrays to store the occurences of 1 the column and row number.

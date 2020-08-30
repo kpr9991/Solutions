@@ -1,0 +1,34 @@
+//Product array puzzle 
+//Simple question but edge cases important.
+//
+
+vector<long long int> productExceptSelf(vector<long long int>& nums, int n) {
+   
+    //code here  
+    long long int product=1;
+    int count=0;
+    for(int i=0;i<nums.size();i++)
+    {
+        if(nums[i]!=0)
+        product*=nums[i];
+        else
+        count++;
+    }
+    vector<long long int> v1;
+    for(int i=0;i<n;i++)
+    {
+       if(count)
+       {
+           if(nums[i]==0 && count==1)
+           v1.push_back(product);
+           else
+           v1.push_back(0);
+       }
+       else
+       {
+           v1.push_back(product/nums[i]);
+       }
+    }
+    return v1;
+}
+ 

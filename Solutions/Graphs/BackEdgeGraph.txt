@@ -1,0 +1,13 @@
+## Back Edge undi ani two cases lo cheptav :-
+
+2.Okkati self loop unte:i.e :Oka node ki self loop undi anuko,appudu aa node ki adjacents,
+check cheste "aa node aa node ke adjacent ga untadhi because,self loop kabatti,
+alantappudu aa child node(ADHE SAME NODE) parent avvadu,so loop exits ani vasthundi.
+3.Inko case loop unnappudu i.e ee node kaakunda vere node unnappudu loop lo.
+
+So ee two cases lo loop undi ani return chestav.
+
+
+##DFS forest ante ,Collection of trees for a graph.(Ante anni nodes connect avvavu kadha,when
+ graph has more than one component,so aa case lo more than one DFS trees vastayi and aa all DFS trees ni kalipithe adhi
+DFS forest avuthundi.So thus DFS forest ante collection of DFS trees.

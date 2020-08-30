@@ -1,0 +1,24 @@
+//Backedge ane file ni chaduvu ee folder lone vundi.
+//Shortest paths ante BFS use cheyachchu ani gurthu unchuko.
+//Adhe DFS ni use cheste guarantee ivvalem shortest path ni.
+
+1.https://ide.geeksforgeeks.org/d16zstmf7j   //Array of vectors.
+2.https://ide.geeksforgeeks.org/m5mCRGUf8Y   //BFS of graph.
+3.https://ide.geeksforgeeks.org/CArqYkSaQK  //DFS of graph.
+4.https://ide.geeksforgeeks.org/LEF00ZyvD6    //Cycle in undirected graph.
+https://ide.geeksforgeeks.org/Iy7jLr0xvf  //Cycle in undirected graph 2.0
+5.https://ide.geeksforgeeks.org/TX8iQDm52T    //Cycle in directed graph.
+6.https://ide.geeksforgeeks.org/D7vrZoEGRq   //Topological sorting.
+7.https://ide.geeksforgeeks.org/E6aXOXSaar    //Strongly connected components.Kosaraju Algorithm.
+8.https://ide.geeksforgeeks.org/Uf5pCUAF5I  //Number of islands.
+9.https://ide.geeksforgeeks.org/maAHhGuOWt   //Rotten oranges.
+10.https://ide.geeksforgeeks.org/rQoCYuns4x  //Dijkstras algorithm
+11.https://ide.geeksforgeeks.org/Ij4129WLo1   //X total Shapes.
+12.https://ide.geeksforgeeks.org/IEsrHCtOlB   //Network delay time.
+13.https://ide.geeksforgeeks.org/yC20eC0gTR   //unit area of largest region of 1's
+14.https://ide.geeksforgeeks.org/O3l63eOuOp   //Find whether a path exists.
+15.https://ide.geeksforgeeks.org/eSba9igHTI  //Min cost path DP problem idhi GFG
+16.https://ide.geeksforgeeks.org/piRdD7llH5    //Minimum cost path DP Leetcode
+17.https://ide.geeksforgeeks.org/JgGEfzjQAn  //01 matrix leetcode.
+18.Getimportance question chusko leetcode.
+19.

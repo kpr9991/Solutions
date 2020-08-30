@@ -1,0 +1,61 @@
+//Word with maximum frequency 
+//this killed 1 hr.
+//Just normal ga map tho count kanukkoni maximum count unnadi kanukko,
+//but basically cin.ignore() and getline use chesedi nerchuko
+
+
+
+#include<bits/stdc++.h>
+using namespace std;
+bool comp(pair<string,pair<int,int>  > p1,pair<string,pair<int,int> >  p2)
+{
+    if(p1.second.second>p2.second.second)
+    return true;
+    else if(p1.second.second==p2.second.second)
+    {
+        if(p1.second.first<p2.second.first)
+        return true;
+        else
+        return false;
+    }
+    else
+    return false;
+}
+int main()
+ {
+	int t;
+	cin>>t;
+	cin.ignore();//Cin.ignore ni test cases daggara use cheyali.
+	while(t--)
+	{
+	string str;
+	getline(cin,str); //inka input of string ki normal getline use cheyali.cin.ignore malli use cheyakuudadhu.
+	string temp="";
+	int n=str.length();
+	unordered_map<string,pair<int,int> > m1;
+	int start=0;
+	int i=0;
+	while(i<n)
+	{
+	    temp="";
+	    start=i;
+	    while(str[i]!=' ' && i<n)
+	    {
+	        temp+=str[i];
+	        i++;
+	    }
+	    if(m1.find(temp)==m1.end())
+	    m1[temp]=make_pair(start,1);
+	    else
+	    m1[temp].second++;
+	    i++;
+	}
+	vector<pair<string,pair<int,int> > > v1(m1.begin(),m1.end());
+	sort(v1.begin(),v1.end(),comp);
+	cout<<v1[0].first<<" "<<v1[0].second.second<<"\n";
+	    
+	
+	
+	}
+	return 0;
+}

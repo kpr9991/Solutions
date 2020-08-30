@@ -1,0 +1,44 @@
+//Remember linked list lo chaala questions extra space use chesi solve cheyachchu,So vaatini extra space use cheyakunda cheyataniki try chey.
+1.https://ide.geeksforgeeks.org/c1XNBgSvIc //count number of nodes in linked list
+2.https://ide.geeksforgeeks.org/TcIBnP9xap    //Count pairs with given sum .O(nlogn) kindha O(n) chesa.
+3.https://ide.geeksforgeeks.org/3TcW47JIa9   //O(n) above question
+4.https://ide.geeksforgeeks.org/SsDzDjttok	   //Add 1 to number represented by linked list.
+5.https://ide.geeksforgeeks.org/O7MPZNVYm1      //delete Alternate Nodes
+6.https://ide.geeksforgeeks.org/23IiyKvKv2           //Detect aa loop in linked list
+7.https://ide.geeksforgeeks.org/dRgSgSIfjc       //Given a linked list of 0's 1's and 2's
+8.https://ide.geeksforgeeks.org/pMAIsdhukq     //nth node from last.
+9.https://ide.geeksforgeeks.org/rQVBbjc8wY    //Delettion in doubly linked list.
+10.https://ide.geeksforgeeks.org/JDExCYCSdA   //Reverse a doubly linked list.
+11.https://ide.geeksforgeeks.org/urQEUJRqGc       //Swap kth elements.
+12.https://ide.geeksforgeeks.org/rejxHQfuxA      //Get middle elements
+13.https://ide.geeksforgeeks.org/eAHvPTRLvP//Remove loop in a linked list .
+14.https://ide.geeksforgeeks.org/QxPMgqzIrQ    //RearrangeLinked list
+15.https://ide.geeksforgeeks.org/Kag9fsFoeG //Delete Keysin linked list.
+16.https://ide.geeksforgeeks.org/ozMixS9pab   //Find n/k th node in linked list.
+17.https://ide.geeksforgeeks.org/qPmyGJSeQ2   //Modular Node
+18.https://ide.geeksforgeeks.org/zVnsihX4mO     //Length of loop.
+19.https://ide.geeksforgeeks.org/RA5oWfIpTd   //Length of loop using Turtle and hare concept.
+20.https://ide.geeksforgeeks.org/doczm5M0ky    //Clone a linked list with next and random pointers.
+21.https://ide.geeksforgeeks.org/wuGqWmXSkY    //Clone a linked list with next and random pointers.
+22. https://ide.geeksforgeeks.org/GE99YvXn0L     //Delete Without Head pointer
+23.https://ide.geeksforgeeks.org/bRI1wPa98k       //Check if the linked list is palindrome.(Turtle and Hare approach use chesi middle of linked list ni Kanukovahcchu,Gurthupettuko)
+24.https://ide.geeksforgeeks.org/yrO3FaVGHw     //Intersection of Y shaped linked list.
+25.https://ide.geeksforgeeks.org/lb1vEiOBrc       //paina Question O(1) space.
+26.https://ide.geeksforgeeks.org/1MvVeubUOa    //Remove duplicatesfrom linked list.
+27.https://ide.geeksforgeeks.org/fQGOv1tm2Y     //First non repeating character in a stream.(Check for best appraoch)
+28.https://ide.geeksforgeeks.org/hZChZu4zFu     //Flattening a linked list.(check for best approach)
+29.Reorder list check for the best appraoch.(Usually it can be done by using a  vector)
+30.https://ide.geeksforgeeks.org/R57X0PEkVR    //Given a linked list, reverse alternate nodes and append at the end.(Deeniki kuuda use best approach the approach that i have done is space consuming )
+31.https://ide.geeksforgeeks.org/bkLHgnxk1K     //Binary tree to DLL using extra space.
+32.https://ide.geeksforgeeks.org/cMaLlFgfhn     //Binary tree to DLL without extra space.
+31.https://ide.geeksforgeeks.org/l0DLe8TJlf      //Insert into sorted linked list.
+32.https://ide.geeksforgeeks.org/F63ikI50Ll       //Compare two linked lists.
+33.https://ide.geeksforgeeks.org/SrzkdVkCF7    //Check if the linked list is circular or not.
+34.https://ide.geeksforgeeks.org/U4M8ptDfzp   //Detect a loop in the linked list.
+35.https://ide.geeksforgeeks.org/tCwYYT6SOT  //print the contents of the linked list.
+36.https://ide.geeksforgeeks.org/JrLDmVLCOQ    //Sorted list insertion.
+37.https://ide.geeksforgeeks.org/L6VkW2MbmX    //Just identical aa kaadha ani check cheyatam.
+38.https://ide.geeksforgeeks.org/gfKcCIEBiI          //Delete middle of linked list.
+39.https://ide.geeksforgeeks.org/4hqQ8UBfyY     //Decimal equivalent of a linked list.
+40.https://ide.geeksforgeeks.org/KzTQ90yIwr     //Length of longest palindrome in linked list.
+41.

@@ -1,0 +1,4 @@
+1.Puzzle | Single Elimination Tournament 
+2.50 red marbles 50 blue marbles:Quesstion not clear.
+3.Knights problem:Ante we have to say whether we can cover all the positions or not.Horse in chess board.
+4.

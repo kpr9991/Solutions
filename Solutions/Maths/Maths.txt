@@ -1,0 +1,25 @@
+1.https://ide.geeksforgeeks.org/gu46rLbsM2  //palindromic array.
+2.Range query ante find the minumum or maximum or sum for q ranges
+in array,Eee questions ni solve cheseki we use segment trees.Segment 
+tree first video matrame chusav so migathavi chuudu.EE concept last lo chey.
+
+3.https://ide.geeksforgeeks.org/MYPWISEGYX   //Compute larger number modulo 11
+4.https://ide.geeksforgeeks.org/T7TTgljKGa   //Total number of strings.
+5.https://ide.geeksforgeeks.org/uGNFPG4E50  //Repetetive addition of digits.
+6.https://ide.geeksforgeeks.org/OcV9RXGyNb //Geek and cofee shop.
+7.https://ide.geeksforgeeks.org/7GnEklL2UV   //Replace all zeroes with 5's
+8.https://ide.geeksforgeeks.org/uup14JCV2r    //Substrings with similar first and last character.
+9.https://ide.geeksforgeeks.org/lbJQnjD4pb     //Number of groups.
+10.https://ide.geeksforgeeks.org/gu46rLbsM2   //Palindromic array.
+11.https://ide.geeksforgeeks.org/w9JK1eftKQ    //Finding Position.(2 ki unna nearest power).
+12.https://ide.geeksforgeeks.org/N0oNK2oADu  //Extract maximum
+13.https://ide.geeksforgeeks.org/SabdfaTkL7     //Product array puzzle.
+14.https://ide.geeksforgeeks.org/THTOucg0u7   //Game of XOR.
+15.https://ide.geeksforgeeks.org/CCmMAibdJ2   //Tiling problem,Staircase problem,Ways to reach nth stair.2*n grid n*4  grid problem etc.
+16.https://ide.geeksforgeeks.org/AZ3COfCOcU   //Number of 1's in smallest rep units.
+17.https://ide.geeksforgeeks.org/7OKPduemsh   //Check if number is prime or not.
+18.https://ide.geeksforgeeks.org/qnAvE7Arc7      //sieve of erathosthanes.
+19.https://ide.geeksforgeeks.org/uMwbyU5AzL   //Intersection between two arrays.
+20.https://ide.geeksforgeeks.org/Wq9DTIjquT    //Polynomial addition 
+21.https://ide.geeksforgeeks.org/KYbG6H3fAk    //Pairs of Prime numbers.
+22.

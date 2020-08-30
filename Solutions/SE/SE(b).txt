@@ -1,0 +1,22 @@
+Usecases gathered after Analyzing requirements:-
+1.Manage System.
+2.Manage parking data.
+3.Update system data.
+4.Update parking Status.
+5.Update parking slot reservation.
+6.Provide Billing data.
+7.Analyze parking data.
+8.Set parking rates.
+
+Functional Requirements:-
+1.Check vacant spaces at any instance.
+2.Check for Improper parking's with current vehicles.
+3.Get details about parking space available.
+4.Get route map from current location of user to parking space alloted to him.(With any applicable algorithm)
+5.Display User the parking spaces with colors wrt avilable or filled.
+6.Depending upon amount of time parked ,Calculate the parking fees.
+7.Redirect to payment gateway and generate a reciept.
+
+Non-Functional Requirements:-
+1.If no space is available users are informed that.
+2.Depending upon the first user tried to access that vacant space,vacant spaces are allocated.

@@ -1,0 +1,16 @@
+ALL TBR
+1.https://ide.geeksforgeeks.org/u5fQP60Ieq  //Basic Binary search
+2.https://ide.geeksforgeeks.org/fyV6CEg0BD   //Reverse Sorted Arraay.
+3.https://ide.geeksforgeeks.org/ZiomnHToQP   //First and last occurence of a index..inO(logn)but nenu upper bound and lower bound vaadanu
+4.https://ide.geeksforgeeks.org/xRxz5so456   //Find First and last occurence in a sorted array.
+5.https://ide.geeksforgeeks.org/KfrdDKCSkp     //Search in sorted and rotated array.(TBR)(TBR)
+6.Count of an element in sorted and rotated array ante just difference between its first and last occurences.
+7.https://ide.geeksforgeeks.org/kF7yQq7huu  //Find the position of elements in sorted array of infinite numbers.
+8.https://ide.geeksforgeeks.org/voauOCkzLD   //Peak element ni kanukkovatam using binary search.
+https://ide.geeksforgeeks.org/Q3MrOHceKz //Maximum element in bitonic array anna peak element anna same question.
+9.https://ide.geeksforgeeks.org/ncsximPFjT     //Search For an element in bitonic array.
+10.https://ide.geeksforgeeks.org/IHXdYVF472  //Search for an element in row wise column wise sorted array.
+11.https://ide.geeksforgeeks.org/M46ofDGSlu    //Allocation of pages
+12.https://ide.geeksforgeeks.org/LJSCSt3KEv      //Painters partition problem
+13.https://ide.geeksforgeeks.org/rGvyvR6ZRU   //Killing spreee  
+14.Searching for an element in the nearly sorted array.Idhi just normal binary search inka advantageous because left and right lo kuuda unde chance undi element so serach space tagguthundi.

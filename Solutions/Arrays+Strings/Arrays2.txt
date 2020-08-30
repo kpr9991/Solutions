@@ -1,0 +1,36 @@
+//aa question ki side lo unna names anni google lo search chey and practice geeksforgeeks
+//lo vachchevi direct ga open chesey.
+
+1.https://ide.geeksforgeeks.org/p1u52MGLOA   //Smallest Positive Missing Number (Amazon)
+2.https://ide.geeksforgeeks.org/LLe9VuC8GA    //Paina question ki O(n) solution.
+3.https://ide.geeksforgeeks.org/ZHqsnefuRt      //Printing the Maximum Sub array.
+4.https://ide.geeksforgeeks.org/ejVayWNA5J    //Wave array.
+5.https://ide.geeksforgeeks.org/OFVyqyWvsI    //Smallest positive missing number.
+6.https://ide.geeksforgeeks.org/rka5dEjnxK    //Maximum sum in the configuration.
+7.https://ide.geeksforgeeks.org/eDs2yzg1Oh   //Merge overlapping intervals.
+8.https://ide.geeksforgeeks.org/Gx7BOoBagI    //Rows with maximum number of 1's
+9.https://ide.geeksforgeeks.org/15p2MMsQPN   //Inversion of an array.
+10.Tried Next smallest Palindrome.Just go through Editorisl.
+11.https://ide.geeksforgeeks.org/2gV5e6VDyR   //Merge two sorted arrays without extra space.
+12.https://ide.geeksforgeeks.org/lVnsBlPaAG   //Merge two sorted arrays without extra space O(m+n)(log)(m+n) solution.
+13.https://ide.geeksforgeeks.org/weLJtG2GXa   //Possible groups.
+14.https://ide.geeksforgeeks.org/8264F7AliL      //Polynomial addition.O(n) extra space.
+15.https://ide.geeksforgeeks.org/iJkoOCPb2t    //Polynomial addition.(using Merge sort technique).
+16.https://ide.geeksforgeeks.org/uCwX9UH88m   //merge k sorted linked lists.
+17.https://ide.geeksforgeeks.org/7eyU3ngJ8M      //Sum of Lengths of non overlapping subarrays.
+18.https://ide.geeksforgeeks.org/8I3YsCXpHZ     //Buildings recieving sunlight.
+19.https://ide.geeksforgeeks.org/uED9qBEkGf     //Equillibrium index of the array.
+20.https://ide.geeksforgeeks.org/H6WF7fMqnc     //Count the elements in two arrays
+21.https://ide.geeksforgeeks.org/SEfTQQB2Yh    //Minimum Energy.
+22.https://ide.geeksforgeeks.org/NhxufqdOcY       //Merge two unsorted arrays.
+23.https://ide.geeksforgeeks.org/t6bJIikwsI      //Left out candies.
+24.https://ide.geeksforgeeks.org/VxSgsRIuIT     //Gcd of array.
+25.https://ide.geeksforgeeks.org/UhaP8VocaV     //Count of subarrays with sum divisible by k.
+26.https://ide.geeksforgeeks.org/3QJWE3Msb7  //Maximize Number of 1's
+27. https://ide.geeksforgeeks.org/E0SGqnUW0J   //Max value.
+28.https://ide.geeksforgeeks.org/8Yq00mQDJD    //Union of Two sorrted arrays.
+29.https://ide.geeksforgeeks.org/od5piezHac       //Maximum sum such that no two elements are adjacent
+30.https://ide.geeksforgeeks.org/gxm9M87KvV    //Stickler theif.
+31.https://ide.geeksforgeeks.org/5XzOc5a9RT     //kth distance.
+32.https://ide.geeksforgeeks.org/1FO6xW4Bxf      //Equal point in a string of brackets.
+33.

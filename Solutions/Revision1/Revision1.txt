@@ -1,0 +1,394 @@
+Arrays :   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.Kth smallest element.
+
+
+2.Rotate matrix by 90 degrees.(Without extra space logic:Do a transpose and reverse columns one by one,you will get a 90* rotated image).
+https://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/      (Remember transposing(Just  swapping arr[ i ] [ j ] with arr[ j ] [ i ],Note that
+ee process lo malli  swap chesina element ne swap chese chance undi,so start j loop with i.)in place logic,reversing inplace logic.)
+
+3. Merge k sorted arrays: Each array is of size n.So matrix dimensions:n*k    (recursion use chesi Divide and conquer use chesi kuuda cheste,first k/2 arrays ni and next k/2 arrays ni anthe best)
+Best:O(nklogk) Extra space:yes O(k)
+Worst:O(nklogn) By just sorting :-Yes O(nk).    //https://youtu.be/ptYUCjfNhJY   
+Approach for Best:Prathi array lo unna zero th element ni priority queue loki vesko.So appudu,top of prority quueu lo first minimum element,Now,aa top element,eh array nundi
+pop chesavo aa array lo nunchi next element vesko.So thus prathi element "k" elements of heap tho compare avuthondi anthe.So n*k elements nklogk time complexity.
+
+
+4.Find Missing And Repeating   . Eee question ki //https://ide.geeksforgeeks.org/DNoo59BftM  ee link lo unna approach use chesi repeated element kanukkoni,
+missing number ni actualsum-Currarraysum-repeatedelement  logic use chesi kanukovachchu.
+
+5.Max sum in the configuration    ..https://ide.geeksforgeeks.org/rka5dEjnxK    //Just rotate  chesina tarvaatha kanukkune sum,rotate cheyakunda constant time,lo kanukkunte
+appudu inner loop O(1) lo chesinatte and thus O(n) rotations ki and final O(n).
+
+6.Boolean matrix problem. So deeniki array indices ni store cheskuneki row index ki row array and column array ni use chesi,aa array lo one vaste aa value ki unna row and column
+index ni 1 chesko.So ikkada O(1) time lo lookup cheyachhu oka index ki.But okavela unordered_set use cheste time complexity error vasthundi.
+So 2 arrays ki O(m+n) space kavali, where m is  no of rows and n is no of columns.So ee two arrays ki extra space use chesekante,better use matrix first row and first column for 
+marking.So first row and column ni traverse chesi 1 undo ledo check chesko yendukante,1 row and column ki okkate place untundi mark cheskunenki. Inka migathavi anni
+normal ga matrix lo mark chesko.Thus O(1) space.O(n^2) time.
+
+
+7.zero sum subarrays.  https://ide.geeksforgeeks.org/PDdxxGtlf0 //Just subarray with the given sum lo zero pettu sum kanukkovalsinadi.
+
+8.Smallest positive missing number   .https://ide.geeksforgeeks.org/OFVyqyWvsI     O(n) time lo O(n) space use chesi set use chesi,ans=1 ani teesukuni,ans==n varaku search cheyachchu array lo.
+But constant space vaadi cheyatam ante same array ni hashmap la chesi cheyatame.So idea yentante,maximum possible missing number can be n+1 ani.
+So array lo mark chesko prathi element from 1 to n.Deenikosam array lo unna negative and 0's ni 1 cheytam,Contains one anna flag use cheyatam,Aa tarvaatha,
+one by one elements ni mark cheskokapthe negative chesi mark cheyatam,Final ga yeh number ni mark cheyaledo,aa index+1 ane number first missing positive number ani.
+
+9.Smallest distinct window that contains all the characters of same string.//Just map and sliding window and j<i condition,and <=0 m1.erase(str[j)...
+https://ide.geeksforgeeks.org/pFpsBC35MF
+
+10.Maximum of all subarrays of size k.   //https://ide.geeksforgeeks.org/ACqaNbUepM Normal idea sliding window and maps use cheyachchu ani but adhi normal map use cheyatam
+valla it takes o(nlogn) time. So time O(n) ki reduce cheyachchu using deque.IDhe same process can be done for minimum of all windows for size  k .Akkada use deque to store the
+current windows minimum index, as the first index.
+
+11.Row with max 1s   //Naive approach,Prathi row ni complete ga traverse chesi andulo unna count of 1s chusi cheyatam O(n^2),Just anni rows sorted ani ichchintadu.index of first occurence of 
+1 kanukko binary search use chesi.SOrted ante matrame binary search use cheyachchu.
+Index of first one kanukkoni aa particular array lo unna ones count kanukko.Thats it.Ila prathi row lo unna 1s count kanukko and final ga eh row lo maximum number of 1s unnayo
+aa row number return chey.Idhi O(nlogm). m is columns number and n is rows number.  https://ide.geeksforgeeks.org/Gx7BOoBagI
+
+https://ide.geeksforgeeks.org/JVs89zKcdV  Chusko for reference.//Set loki pair ni vesi search cheyachchu,vector ni vesi find cheyachchu,yemanna veyachchu.
+
+12.Overlapping Intervals   //Just normal ga sort chesi,first anni pairs ni oka set loki vesko,because set lonchi erase and insert easy ga untundi,(Or else starting lone anni 
+pairs ni set loki veskunte,anni sorted ga untayi set lo so now first two pairs ni teeytam and then merge ayithe cheyatam,and teesina vaatini set lonchi erase cheyatam,
+once erase chesaka,koththa merged content ni veyatam.Once merging cheyaleka poyina left nundi or set size one ayina output set and finish.
+
+13.Longest Sub-Array with Sum K    //https://ide.geeksforgeeks.org/f9nqZWxIBt  (Edge case:Only when the current sum is not in the map update index.If already present
+ignore because we need to get the longest subarray.
+
+14.Trapping Rain water :-https://ide.geeksforgeeks.org/408cASLvSB      //Normal just DP use chesi fill cheyatam left and right arrays.
+
+15.Largest number that can be formed from array elements .  //https://ide.geeksforgeeks.org/b87AyzPHkC   //Just strings ga consider chey array elements ni
+and then sort chey,but normal sort cheste work avvadu so lexographical sort cheyyali.This can be done using s1+s2  and s2+s1, return s1s2>s2s1.
+
+16.Top k number in array chudaledu.
+
+17.Possible groups .https://ide.geeksforgeeks.org/weLJtG2GXa  //Just binco function lo k>n-k k=n-k badhulu n<k return 0 thats it inka migahta di normal.
+
+18.Rotate and delete :https://ide.geeksforgeeks.org/ssxnm54xbe  (n+2)/4 (EVEN) (n+5)/4 (ODD)  //ikkada just formula use chesadu.Muggup it.//Idea ante 
+konni test cases ni teeskuni solve cheste odd number of elements ki oka pattern and even number of elements ki ka pattern vasthundi anta.So just go with this sollu.
+
+19.Maximum subarray.//https://ide.geeksforgeeks.org/jPzNV8BCYx   //ikkada just print cheyali array that has greatest sum ni.Question lo only +ve elements ni consider  cheyamanndu so 
+adhi point inka antha normal,Finstart,fineend,start,end,ans(Currentmaximum ki) etc.
+
+21.Kadanes Algorithm:  //https://ide.geeksforgeeks.org/aH5dIpuhf7     //All numbers are negative edge case chusko.
+
+Problems on stocks :------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.Stock buy and sell //https://ide.geeksforgeeks.org/BxPkN6q2PS   //Just  left minimum and right maximum.(Only 1 stock)
+	
+2.Stock Buy and sell :https://ide.geeksforgeeks.org/Jj5aY5keDu  (Increasing subarrays start and end index).(Any number of stocks).
+
+Maths :- ------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.https://ide.geeksforgeeks.org/kF8OfcKhoo   //Ways to reach nth stair.(order does not matter.)
+
+2.https://ide.geeksforgeeks.org/rdmwQocGgD   //Ways to reach nth stair (Order matters).
+
+3.Element that appears once when every element appears twice.Just take the XOR of all the elements.
+
+4.Search in row wise and column wise sorted array. ikkada Just idea :Top right element nundi start cheste time complexity O(m+n) TC lo ayipoddi.Or else anni
+rows paina binary seach cheste O(nlogm)..But first one is better.
+
+5.https://ide.geeksforgeeks.org/Al1Mk17Vky   //Game of XORs
+
+LinkedLists: ------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.https://ide.geeksforgeeks.org/DM3UYyMZyP    //Intersection between two linked lists.(Sorted).
+
+2.https://ide.geeksforgeeks.org/YKhMFcoolq    //Convert linked list into zigzag fashion.
+
+3.https://ide.geeksforgeeks.org/Xt8I52yAc7     //Merge two sorted linkedlists inplace.(VVIMP)(https://ide.geeksforgeeks.org/BkYMvGvReG)(Two links are imp).
+https://ide.geeksforgeeks.org/gijCYyz6tE  //Without using Dummynodes without using recursion.(26th Question Chuudu)
+
+4.https://ide.geeksforgeeks.org/6HM8jD8qTp   //Intersection of two linked list that are not sorted.
+
+4.https://ide.geeksforgeeks.org/TPvP46Y9iw    //Delete without head pointer.
+
+5.https://ide.geeksforgeeks.org/3AarAqY3V6     //Binary tree to CDLL
+
+6.https://ide.geeksforgeeks.org/nfW9P6IIpA   //Reorder list (paina 2nd question ki deeniki important variation chusko bool varaible use chese dantlo).
+
+7.https://ide.geeksforgeeks.org/hrEC4QaKbi   //Count pairs with the given sum.
+
+8.https://ide.geeksforgeeks.org/E0bqDkeAem    //Add 1 to a number represented by the linked list.
+
+9.https://ide.geeksforgeeks.org/lJpvIlwsI2       //Absolute list sorting(linked list in zigzag fashion ki,reorderlist ki,wave array ki madhya differences chusko).
+
+10.https://ide.geeksforgeeks.org/WEvnWKNg2W    //union of two linked lists.
+
+11.Segregate even and odd nodes in a Linked List    //Idhi pointers use chesi cheyachchu But nenu kothta list tayyaru cheyyali kabatti cheyaledu.
+
+12.Dummy nodes are really awesome.Extra space ni use cheyakunda chaala use avuthayi.(Sort a linked list of ones and zeros and twos ni try chesa
+but dummy nodes 3 use chesi chesina raledu.So dont know the reason.
+
+13.https://ide.geeksforgeeks.org/kFeYo4LiRE    //Detect a loop in a linked list.
+
+14.https://ide.geeksforgeeks.org/aNErrfNK7E    //Remove a loop in a linked list.
+
+15.https://ide.geeksforgeeks.org/7K0zOdTduc   //remove duplicates from the sorted array.
+
+16.Length of the Longest Consecutive 1s in Binary Representation      //Idhi Bits right and left shift use chesi cheyacchu.(BASIC SENSE)
+
+17.https://ide.geeksforgeeks.org/dyEsDlWD8m    //Rearrange a linked list.
+
+18.https://ide.geeksforgeeks.org/6gSeFy7On1    //Remove duplicates from an unsorted linked lists.
+
+19.https://ide.geeksforgeeks.org/tO6PZOTSgv   //Delete all the occurences of a node with data as x.
+
+20.XOR linked list cheyaledu.Delete nodes having greater value on right cheyaledu.
+
+21.https://ide.geeksforgeeks.org/XGWbpHaIJ7   /insert into a sorted linked list.
+
+22.https://ide.geeksforgeeks.org/iJkoOCPb2t    //Polynomial addition.
+
+23.https://ide.geeksforgeeks.org/SgZp2UU9Mw    //Pair wise swap elements.
+
+24.Find length of Loop       //https://ide.geeksforgeeks.org/RA5oWfIpTd
+
+25.https://ide.geeksforgeeks.org/oIN880KMri    //Linked list that is sorted altenatingly.
+
+26.https://ide.geeksforgeeks.org/qN1y9KVJ3h   //Merge Sort On linked lists.
+
+27.https://ide.geeksforgeeks.org/V95HuHRNB2   //Merge k sorted linked lists.(VVIMP).
+
+28.https://ide.geeksforgeeks.org/dDW33klYkh  //Merge k sorted linked lists.
+
+Hashing:------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.https://ide.geeksforgeeks.org/O822orm371   Match specific pattern.
+
+2.https://www.geeksforgeeks.org/count-substrings-with-same-first-and-last-characters/   //Indulo O(n^2) thought vasthundi,Butter O(n) lone cheyachchu .how ante
+oka string lo unna substrings lo last and first characters similar ga undali ante,character yekkada vachchindi anedi important kaadu,just yenni sarlu vacchindi anedi
+important,
+
+Combinations yenduku use chesam ante set of two teesukovali and we dont care on the arrangement.
+So you can break the formula as (freq)C(2) + (freq)C(1)=(freqency of character+ 1)C 2
+(freq)C(2) -> rendu characters yokka subset ni teesukoni find the number of substrings possible.
+(freq)C(1) -> oka character ni teesukoni find the number of substrings possible.
+
+3.https://ide.geeksforgeeks.org/W3rSWXtVGU    //unique Numbers.Naive solution eh ichcharu editorial lo kuuda.
+
+4.https://ide.geeksforgeeks.org/vpNNdratxo    //uncomon Charcters.
+
+5.https://ide.geeksforgeeks.org/kOKgC0fed6   //Longest consecutive subsequence.
+
+6.https://ide.geeksforgeeks.org/nICKXrnVVy    //Find the odd occurence
+
+7.https://ide.geeksforgeeks.org/GjZUUIoKt4     ///find the triplet with the given sum.
+
+8.https://ide.geeksforgeeks.org/clg1ebbvPS    //Subarray with the sum zero.
+
+9.https://ide.geeksforgeeks.org/sdxekdiDyU   //Longest subarray with the giveen sum.
+
+10.https://ide.geeksforgeeks.org/n1CprHzNQq    //Swapping pairs make sum equal 
+
+11.https://ide.geeksforgeeks.org/s7ZYu9xCQ4   //Find the first repeated character.
+
+12.Check if array contains contiguous integers with duplicates allowed  //Idhi simple sorting use chesi kanukko.
+
+13.Intersection of two arrays.Normal map use chesi rendintlo common kanuko.
+
+14.https://ide.geeksforgeeks.org/pxhenwIcru   //Count distinct elements ni every window of size k.
+
+15.https://ide.geeksforgeeks.org/eB2rRFhb9X   //Smallest distinct window that contains all the characters of the same string.
+
+16.https://ide.geeksforgeeks.org/f4hA0HCAY4   //Anagram palindrome.
+
+17.https://ide.geeksforgeeks.org/HH5Zuefwug    //First non repeating character.
+
+18.https://ide.geeksforgeeks.org/f9nqZWxIBt   //Longest subarray with sum k.
+
+19.https://ide.geeksforgeeks.org/tgDloCukqv    //relative sorting.
+
+20.https://ide.geeksforgeeks.org/H6WF7fMqnc   //Count the elements.
+
+21.https://ide.geeksforgeeks.org/0irSIJfLry   //First repeating element.
+
+22.https://ide.geeksforgeeks.org/PCSAGh60Gx   //Count the pairs with the given difference.
+
+23.https://ide.geeksforgeeks.org/6mraHBOYsA   //Sum equals to sum.
+
+24.Largest subarray of 0's and 1's   //https://ide.geeksforgeeks.org/sdxekdiDyU
+
+25.https://ide.geeksforgeeks.org/9Gdm71dihg   //Longest k unique characters of the stiring,.\
+
+26.Check if a year is Leap year or not.(Logic:Check if year%4==0 && year%100!=0 || year%400==0 it is a leap year.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Trees: 
+
+Most of questions in trees yekkadaithe O(n^2) ani anipsithundo avi O(n) lo solve cheyachchu.yela ante left and right subtreess ni process chesi aa answer ni upper levels
+ki pass chesi.Ila.
+
+
+Ee two Questions Base for trees,First ee rendu chusi approach nerchuko and then proceed:
+
+---------------https://ide.geeksforgeeks.org/vVv0iNCoJk   //Has root to leaf path sum.  
+----------------https://ide.geeksforgeeks.org/UESaju4Cey    //Print all the ancestors of the given tree.(EE QUESTION LO BASE ICHCHA,Left subtree ki right subtree ki vellala leda and 
+left and right subtrees ki yem pass cheyali anedi calculate cheyali anthe most of the questions can be solved by this approach.
+
+
+Remaining:--------------------------------------------------------------------------------------------------------------
+
+1.https://ide.geeksforgeeks.org/cMaLlFgfhn   //Binary treee to CDLL.
+
+2.https://ide.geeksforgeeks.org/3cc6FzENUp   //Check for BST.
+
+3.https://ide.geeksforgeeks.org/K5i07bx4bc    //Boundary traversal of binary tree.
+
+4.Largest BST idhi chaala try chesa raledu.(naive approach Just anni nodes daggariki velli ,check if that aa node tho vachche tree BST aa kaadha ani,okavela BST ayithe 
+daani size kanukko,aa sizes lo maximum size kanuko.....Best approach yentante,post order traversal chesi one by one node ki daani left maximum and daani right maximum ni
+parent node ki pass chesi cheyachchu,
+https://ide.geeksforgeeks.org/wDOLfPdG5q  //Largest BST (NOT working);
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Vertical Order Traversal:-
+
+22.https://ide.geeksforgeeks.org/ASv8fvyzHc   //Vertical sum in binary tree.
+
+5.https://ide.geeksforgeeks.org/V0nPL3OrbE    //Vertical order traversal of Binary tree.
+
+6.https://ide.geeksforgeeks.org/UDrdU2d8Ll      //Bottom view of binary tree.
+
+7.https://ide.geeksforgeeks.org/MQ2Vc9PfRu    //Top view of binary tree.
+
+10.https://ide.geeksforgeeks.org/NmFUfoVIli  //Print nodes that dont have siblings.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+8.https://ide.geeksforgeeks.org/lyptokIRyH    //Inorder traversal and preorder traversal without recursion.(BATTI).
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+9.https://ide.geeksforgeeks.org/pMK2h035Sb   //Construct Binary  tree from preorder traversal.(BATTI)
+
+1.https://ide.geeksforgeeks.org/b0oDYfj7pB //Check if one tree is subtree of another.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+11.https://ide.geeksforgeeks.org/AcSx8JnEgu   //Remove half nodes.
+
+13.CLone a binary tree question cheyaledu.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+LevelOrderTraversal:-
+
+16.Max Level Sum in Binary Tree   //Just each and every level ki level order traversal chesi we find out max sum at a level.
+
+17.Odd even level difference   //Oddth level aa eventh level aa ane daaaniki just oka flag use chesi inka final sums madhya diff output.
+
+19.Minimum Depth of a Binary Tree   //Level order traversal chesi first leaf node vaste aa level number eh minimum depth.
+
+14.K distance from root   //Just level order traversal chesi aa level lo unnavi print cheyatam.
+
+21.https://ide.geeksforgeeks.org/c1hww9L6JZ   //Right view of binary tree.
+
+12.Maximum Node Level //Idhi just level order traversal chesi max nodes yeh level lo unnayo adhi return cheyatam.
+
+20.https://ide.geeksforgeeks.org/V5VIp9P2DN    //Diagnol sum in binary tree,
+
+12.https://ide.geeksforgeeks.org/h2yM5YqJQP  //Level order traversal in Spiral form.
+
+15.https://ide.geeksforgeeks.org/EFJiUwket6   //Zigzag traversal in binary tree.
+
+16.https://ide.geeksforgeeks.org/haG0zrLovF   //populating next right poinnters just common sense.
+
+
+Level order traversal Line by Line   : Just Easy.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+23.https://ide.geeksforgeeks.org/YIDLiqkjt5   //Make a binary tree from linked list.
+
+--------------------------------------------------------------------------------------------------------------------
+
+10.https://ide.geeksforgeeks.org/H6Q6CmOIRn   //Mirror tree.
+
+18.https://ide.geeksforgeeks.org/30GFoa1mem   //Two  trees are identical.
+
+25.https://ide.geeksforgeeks.org/2k7RgU5wFZ   //is Symmtric.
+
+26.https://ide.geeksforgeeks.org/y3kP2jQKKp   //is isomorphic.
+
+27.https://ide.geeksforgeeks.org/Xthvks3OFD //Is sum tree.
+
+9.https://ide.geeksforgeeks.org/X5RpLiihi5   //Two mirror trees.
+
+-------------------------------------------------------------------------------------------------------------------------
+Root Path problems:
+
+1.https://ide.geeksforgeeks.org/XiEFWJNRKy   //Idhi has path or not idhi first basic.Idhi nerchuko and we can do a lot other.
+
+2.https://ide.geeksforgeeks.org/vVv0iNCoJk   //Has root to leaf path sum.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Tree DP:
+
+3.https://ide.geeksforgeeks.org/IOfgTwHjbv   //LCA in BST.
+
+4.https://ide.geeksforgeeks.org/2cPpfV4QVg    //LCA in Binary Tree(NOT BST)(DP).
+
+13.https://ide.geeksforgeeks.org/ReGDPOlOL3   //Minimum distance between two given nodes.
+
+5.  https://ide.geeksforgeeks.org/rZtmK93KQD   //Diameter of binary tree.(DP).
+
+11.https://ide.geeksforgeeks.org/IcgJY5r7Z4  //Print nodes having k leaves.(DP).
+
+16.https://ide.geeksforgeeks.org/eQpSeqb7Vh  //Max difference between node and its ancestor.(DP).
+
+24.https://ide.geeksforgeeks.org/51nzzeQfXY   //Transform to sumtree.(DP).
+
+15.https://ide.geeksforgeeks.org/rokizFgtPA    //Expression tree.(DP)
+
+------------------------------------------------------------------------------------------------------------------------
+
+6.https://ide.geeksforgeeks.org/I0nRjJ4u2T   //Add all greater values to every node ni BST.
+
+7.https://ide.geeksforgeeks.org/Vu9Sgbe9bZ  //Binary tree to BST.
+
+8.Merge two BSTs question cheyaledu.Because nenaithe extra space vaaadi nlogn lo chesta.But ikkada extra space vaddu ante solution konchem critical.
+
+9.Search in BST-->Ikkada just BST property use chey val<root->val ante left tree
+lo search chey else right tree lo seearch chey.Normal traversals use chesi cheste
+it takes much time kadha so we can use that property.
+ 
+------------------------------------------------------------------------------------------------------------------------
+
+Trees lo traversals use chesi tree ni build chese questions ni cheyaledu.So aa question oka 3 4 unnayi chesko.
+
+1.https://ide.geeksforgeeks.org/R0hZsGhmRj  /Construct Binary tree from inorder and preorder traversals.
+
+2.https://ide.geeksforgeeks.org/WZQ5es9ll3  //Binary tree from post order and inorder traversal.
+
+3.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+Dynamic Programming :----
+
+1.https://ide.geeksforgeeks.org/to8jSDO9iX  //reach a given score.
+
+2.https://ide.geeksforgeeks.org/JAlq8C6RXW   //Subsequences of type a^ib^jc^k
+
+3.Print array into K subsets.Idhi sum/k ni form chese subsets count k ayithe true ani chesa.But work avvaledu.
+
+4.https://ide.geeksforgeeks.org/RUjWpiSb7C   //Unique BST's
+
+5.https://ide.geeksforgeeks.org/VpOS4eMKf9    //Longest increasing subsequence.(DP problem yenduku ante vector lo every index varaku unna longest increasing subsequence length store chestunnav kadha).
+
+6.https://ide.geeksforgeeks.org/XOhWP0S6Q1   //Edit distance.
+
+Divide and Conquer::--
+
+1.
+
+
+
+

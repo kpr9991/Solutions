@@ -1,0 +1,7 @@
+WaterFall Model :-
+Reason For choosing this :-
+1.Since the requirements are fixed,Once the requirements are gathered,
+planning,Modelling,Construction,Deployment can be done respectively.
+2.There will be no additional requirements that need to be added.
+3.Total parking space available will be constant,So wrt space ,requirements does'nt change.
+4.Parking fees and payment gateways might change but this will not affect the process model.

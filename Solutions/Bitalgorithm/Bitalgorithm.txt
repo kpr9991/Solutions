@@ -1,0 +1,6 @@
+1.https://ide.geeksforgeeks.org/AulLFQIPmq   //Bit Difference.
+2.https://ide.geeksforgeeks.org/Y3MSMqASP4   //Total set bits from 1 to  n.
+3.https://ide.geeksforgeeks.org/pqGol1h5dn      //Reverse bits.
+4.https://ide.geeksforgeeks.org/AdvLxixE8M       //Josephus Problem
+5.https://ide.geeksforgeeks.org/Q0OWYPyh5c  //Swap alll even and odd bits.
+6.

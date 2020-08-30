@@ -1,0 +1,32 @@
+
+General DP questions:----
+1.https://ide.geeksforgeeks.org/TMhrgq4pfi  //Find number of times a string occurs as a subsequence(IMP) Interview Bit lo Distinct subsequences question.
+
+2.https://ide.geeksforgeeks.org/LW7uYcSRsn   //Knapsack ki Distinct subsequences ki relation chusko.
+
+3.https://ide.geeksforgeeks.org/VpOS4eMKf9  //Longest increasing subsequence.O(n^2) approach. Denni print cheyatam just aa max length ni minus 1 cheskuntu array lo aa index lo unna element ni print chestu vellu.
+
+4.https://ide.geeksforgeeks.org/vIp3J4sP46   //Upper Bound and lower Bound. 
+
+5.https://ide.geeksforgeeks.org/T1U3TIgKwq   //Print all the subsequences of array.
+
+6.https://ide.geeksforgeeks.org/Unypx1nHOT   //Intersecting chords in Circle.
+
+7.https://ide.geeksforgeeks.org/QMefAglwIb //Word break problem.(next link 
+inka simple).
+
+8.https://ide.geeksforgeeks.org/NYXlfVLQMw   //Word break problem Inko model lo chesa.Ikkada substring O(n^2) avasram ledu.Just 0th index nundi enough.
+
+9.https://ide.geeksforgeeks.org/8UaDmLcoMq   //Robbing houses theif.Deenini bottom up cheyatam just adithya verma chesela chesey.
+
+10.https://ide.geeksforgeeks.org/X3mOSCZ93S //Boolean Parenthesization.
+
+11.https://ide.geeksforgeeks.org/vuVpczRslk   //Scrambled string.
+
+12.Eggs dropping Puzzle:
+eggDrop(e,f) = 1+min{max( eggDrop(e-1,k-1) , eggDrop(e,f-k) ) , k in 1:f}
+
+13.https://ide.geeksforgeeks.org/rZW3hZiBOZ  //Nth root of a number.
+
+
+

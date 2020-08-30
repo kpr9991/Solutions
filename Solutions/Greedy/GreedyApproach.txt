@@ -1,0 +1,12 @@
+1.https://ide.geeksforgeeks.org/yZhbLFqzrh    //N Meetings In Room
+2.https://ide.geeksforgeeks.org/0gCMJEFWq5   //Job sequencing Problem
+3.https://ide.geeksforgeeks.org/a7AuZ98dUX   //Message Spreading
+4.https://ide.geeksforgeeks.org/ZQWGjxLA78    //Minimum platforms
+5.https://ide.geeksforgeeks.org/3URdhMNAoJ   //Find the smallest number that can be formed.
+6.https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/
+Paina question was a bit tough so i left.
+7.https://ide.geeksforgeeks.org/Pe0pFo0oCY    //Minnimize the products.(use #define int long long)
+8.https://ide.geeksforgeeks.org/AbyfSSD535     //Activity selection problem.
+9.https://ide.geeksforgeeks.org/MRmGiWffOM    //Max length chain
+10.https://ide.geeksforgeeks.org/10NwfIj4Qi       //ishaan loves choclates.
+11.

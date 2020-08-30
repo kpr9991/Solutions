@@ -1,0 +1,432 @@
+
+
+1.https://ide.geeksforgeeks.org/sh5t08RBcH //Missing elements in AP
+2.https://ide.geeksforgeeks.org/M6npYMRcma Doubling the values.
+3.https://ide.geeksforgeeks.org/5i08dDxbtt  //Sum of digits  of number is palindrome or not.
+4.https://ide.geeksforgeeks.org/wFhzTgH1qf //Binary to Decimal
+5.https://ide.geeksforgeeks.org/vMbvM7YOal  /Addition of submatrix,
+6.https://ide.geeksforgeeks.org/aNH1Dp3aej    //if all the bits are set in a given num.
+7.https://ide.geeksforgeeks.org/BCSnYFfdbf   //Count the elements 
+8.https://ide.geeksforgeeks.org/6HrjPrdBWL   //Greater on right side.
+9.https://ide.geeksforgeeks.org/w9JK1eftKQ  //Finding position  //Logical.
+10.https://ide.geeksforgeeks.org/nslLmL0grq //Logical.
+11.https://ide.geeksforgeeks.org/DRrxDPhASg //Use of lower_bound Binary search.
+12.https://ide.geeksforgeeks.org/J0KVgsVYte //Rotate without extra space
+13.https://ide.geeksforgeeks.org/mmwST8QXOo   //Try with count 
+14.https://ide.geeksforgeeks.org/dvdixCxjQt  //missing and repeating elements...Try with sum of first n elements.
+15.https://ide.geeksforgeeks.org/WHVgmIiUpp  //TRy with O(n)...count of pairs with sum k.
+16.https://ide.geeksforgeeks.org/ZxwGsc97Ky    //Maximum GAP.
+17.https://ide.geeksforgeeks.org/5kugDwsPX0     //Pattern Searching.
+18.https://ide.geeksforgeeks.org/7XujuR0cIh   //a^b mod in for loop.
+19.https://practice.geeksforgeeks.org/problems/sum-of-lengths-of-non-overlapping-subarrays/0    //Try for O(n) using 2 pointers. sliding window.
+20.https://ide.geeksforgeeks.org/kuAvVhNX2H///REmove all duplicates from string.
+21.https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0/   logn is binary search.
+22.https://ide.geeksforgeeks.org/bQdAuV733c  //Majority element.
+23.https://ide.geeksforgeeks.org/1HXkie47X9     //Find the odd occurence.
+24.https://ide.geeksforgeeks.org/oI80ZlidGO   //Missing number in array.
+25.https://ide.geeksforgeeks.org/GknGEVxtp5 //EQUILLIBRIUM POINT .
+26.https://ide.geeksforgeeks.org/FAvSKnPl81  //Never forget that each and every sum yenni sarlu vachchindo anni
+count ki add cheyali ani bcoz usually index or alantivi store chestam kadha ..So here count+=m1[sum].coz that many subarrays are there with that sum.Count of Subarrays with the given sum.IMPORTANT(TBR)	
+27.https://ide.geeksforgeeks.org/qMx1HqZWwl    //Minimum indexed character.
+28.https://ide.geeksforgeeks.org/CAt0ow5Eba   //Repetetive addition of digits
+29.https://ide.geeksforgeeks.org/gYyzfgmy0y //Twice Counter.
+30.https://ide.geeksforgeeks.org/no8venvnut     //Second most repeated string.
+31.https://ide.geeksforgeeks.org/E1AS4DWDa //Sum of all numbers in stirng in O(n)
+32.https://ide.geeksforgeeks.org/wcksSzwDbm   //Extract Maximum.
+33.https://ide.geeksforgeeks.org/T5NtN0GFtG   //Maximum in bitonic array.
+34.https://ide.geeksforgeeks.org/gbmVNM8SzO     //Maximum product of two numbers.O(n) Never Forget "else if" its not "if".
+35.https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1    //Remember this problem can produce error
+with even the for loop running n times and high as "n" ..So high "h" must be upto n-1 and for loop upto n-2.
+36.https://ide.geeksforgeeks.org/eOAeZLU7GC   //O(logn) using Binary search Index of first 1. in sorted arrar
+37.https://ide.geeksforgeeks.org/Dks0cI1RkU //immediate smaller element.
+38.https://ide.geeksforgeeks.org/87jykhood6    //First repeating element.
+39.https://ide.geeksforgeeks.org/SUBDfSO1aO    //Case specific sorting of string
+40.https://ide.geeksforgeeks.org/1vDpn7bPvT     //Number following a pattern. Dont forget this soln.
+41.https://ide.geeksforgeeks.org/b87AyzPHkC  //Largest number formed from array elements.
+42.https://ide.geeksforgeeks.org/ssxnm54xbe     //rotate and delete  REMEMBER THE FORMULA:) MUGGUP:)
+43.https://ide.geeksforgeeks.org/oBxNdcVui7     //Maximum INDEX 
+44.https://ide.geeksforgeeks.org/408cASLvSB  //Trapping Rain water.
+45.https://ide.geeksforgeeks.org/EvYDWze6JM     //Decode The pattern IMPORTANT(TBR)
+46.https://ide.geeksforgeeks.org/ZDEGz4ihmD   //Longest common Substring. Adithya Verma
+47.https://ide.geeksforgeeks.org/RHIhO5GWu7   //Reverse words . If pointer is given to string then last character is NULL.
+48.https://ide.geeksforgeeks.org/LsGwQLkl5p   //Check whether string is pangram.
+49.https://ide.geeksforgeeks.org/1qqv4hv5AG   //mINIMUM INDEXED CHARACTER.
+50.https://ide.geeksforgeeks.org/GZ8pcv8aN3 //Modified string.
+51.https://ide.geeksforgeeks.org/StoTAvGse9     //Length of longest Substring with all distinct characters IMPORTANT.Using Unordered_map(TBR)
+52.https://ide.geeksforgeeks.org/35PIQIvdj4   //longest palindromic subsequence.AdithyaVerma
+53.https://ide.geeksforgeeks.org/eB2rRFhb9X    //Smallest ditinct window that contains all characters of given string.Umap Soln..IMPORTANT (TBR)
+54.https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0/      (TBR) Same as above question with slight modification in count.
+55.https://ide.geeksforgeeks.org/PIUgH6nKs2    //Non Repeating Character.
+56.https://ide.geeksforgeeks.org/33x1cYY4oO   //Reverse words of given string.
+58.https://ide.geeksforgeeks.org/GBYdYwkHeS    //Common Subsequence.(TBR)
+59.https://ide.geeksforgeeks.org/mBAGrajbOU    //Replace by X (TBR)
+60.https://ide.geeksforgeeks.org/JmlhbbSmZ7    //Consecutive Elements :Since length of string modifies all the time..Note that.in while loop.
+61.Count of subarrays with the given sum https://ide.geeksforgeeks.org/lTDOTWBW93   //(TBR)
+62.longest Subarray with the given sum  https://ide.geeksforgeeks.org/f9nqZWxIBt    //(TBR)
+63.https://ide.geeksforgeeks.org/TaOpj2cgK0    //in Xoring All the elements initialize x with zero.
+64.https://ide.geeksforgeeks.org/OMDEYNQQ79    //Flip Bits (TBR)
+65.https://ide.geeksforgeeks.org/5ncG62YZOa    //Finding Number Bitonic array.Normal ga chesey.
+66.https://ide.geeksforgeeks.org/7GjF17yoRL   //Use boost libraries.
+67.https://ide.geeksforgeeks.org/6mraHBOYsA    //Sum equals sum.(TBR).
+68.https://ide.geeksforgeeks.org/TtYPCMfw93    //Index of an extra element (Binary search)
+69.https://ide.geeksforgeeks.org/DvRhnlziCH      //Peak element   (Binary Search).
+70.https://ide.geeksforgeeks.org/BO0VDxUCFu    //move all zeroes to end of array.(TBR)
+71.https://ide.geeksforgeeks.org/L3f66Iqo8s    //Anagrams
+72.https://ide.geeksforgeeks.org/EkBuvulQSd      //Remove duplicates
+73.https://ide.geeksforgeeks.org/T4AiKv9wt3   //product array puzzle
+74.https://ide.geeksforgeeks.org/uJMybgFoHv     //Find duplicates in array in O(n) time and O(1) space(TBR)
+75.https://ide.geeksforgeeks.org/4VZJE6r7NQ    //(TBR) maximum of all the subarrays of size k.
+76.https://ide.geeksforgeeks.org/ZduPaofIj4  //(TBR) First negative integer in all subarrays of size k..Just modification to the above code.
+77.https://ide.geeksforgeeks.org/sH3NnJhNLM  //(TBR)
+78.https://ide.geeksforgeeks.org/IwaBKvtN7n      //TBR 2 pointer technique finding out smallest subarray with sum>x ..jjust modification of subarray with given sum. using 2 pointers
+79.https://ide.geeksforgeeks.org/UKFT05siql    //Count substrings that start and end with one.
+80.https://ide.geeksforgeeks.org/F2UJ8RjkYp   //(TBR)
+81.https://ide.geeksforgeeks.org/XAtDe0TVQM   //Boolean Matrix problem (TBR) 
+82.https://ide.geeksforgeeks.org/BbpHCL0scy   //In above problem i have used unordered_set that gave tle so here i used 2 arrays to store the occurences of 1 the column and row number.
+//aa question ki side lo unna names anni google lo search chey and practice geeksforgeeks
+//lo vachchevi direct ga open chesey.
+
+1.https://ide.geeksforgeeks.org/p1u52MGLOA   //Smallest Positive Missing Number (Amazon)
+2.https://ide.geeksforgeeks.org/gljbDVHZGD    //Paina question ki O(n) solution.
+3.https://ide.geeksforgeeks.org/jPzNV8BCYx     //Printing the Maximum Sub array.
+4.https://ide.geeksforgeeks.org/ejVayWNA5J    //Wave array.
+5.https://ide.geeksforgeeks.org/OFVyqyWvsI    //Smallest positive missing number.
+6.https://ide.geeksforgeeks.org/rka5dEjnxK    //Maximum sum in the configuration.
+7.https://ide.geeksforgeeks.org/eDs2yzg1Oh   //Merge overlapping intervals.
+8.https://ide.geeksforgeeks.org/Gx7BOoBagI    //Rows with maximum number of 1's
+9.https://ide.geeksforgeeks.org/JdrpEvNfdF   //Inversion of an array.
+10.Tried Next smallest Palindrome.Just go through Editorisl.
+11.https://ide.geeksforgeeks.org/2gV5e6VDyR   //Merge two sorted arrays without extra space.
+12.https://ide.geeksforgeeks.org/lVnsBlPaAG   //Merge two sorted arrays without extra space O(m+n)(log)(m+n) solution.
+13.https://ide.geeksforgeeks.org/weLJtG2GXa   //Possible groups.
+14.https://ide.geeksforgeeks.org/8264F7AliL      //Polynomial addition.O(n) extra space.
+15.https://ide.geeksforgeeks.org/iJkoOCPb2t    //Polynomial addition.(using Merge sort technique).
+16.https://ide.geeksforgeeks.org/uCwX9UH88m   //merge k sorted linked lists.
+17.https://ide.geeksforgeeks.org/7eyU3ngJ8M      //Sum of Lengths of non overlapping subarrays.
+18.https://ide.geeksforgeeks.org/8I3YsCXpHZ     //Buildings recieving sunlight.
+19.https://ide.geeksforgeeks.org/uED9qBEkGf     //Equillibrium index of the array.
+20.https://ide.geeksforgeeks.org/H6WF7fMqnc     //Count the elements in two arrays
+21.https://ide.geeksforgeeks.org/SEfTQQB2Yh    //Minimum Energy.
+22.https://ide.geeksforgeeks.org/NhxufqdOcY       //Merge two unsorted arrays.
+23.https://ide.geeksforgeeks.org/t6bJIikwsI      //Left out candies.
+24.https://ide.geeksforgeeks.org/VxSgsRIuIT     //Gcd of array.
+25.https://ide.geeksforgeeks.org/UhaP8VocaV     //Count of subarrays with sum divisible by k.
+26.https://ide.geeksforgeeks.org/3QJWE3Msb7  //Maximize Number of 1's
+27. https://ide.geeksforgeeks.org/E0SGqnUW0J   //Max value.
+28.https://ide.geeksforgeeks.org/8Yq00mQDJD    //Union of Two sorrted arrays.
+29.https://ide.geeksforgeeks.org/od5piezHac       //Maximum sum such that no two elements are adjacent
+30.https://ide.geeksforgeeks.org/gxm9M87KvV    //Stickler theif.
+31.https://ide.geeksforgeeks.org/5XzOc5a9RT     //kth distance.
+32.https://ide.geeksforgeeks.org/1FO6xW4Bxf      //Equal point in a string of brackets.
+33.? Back Edge undi ani two cases lo cheptav :-
+
+2.Okkati self loop unte:i.e :Oka node ki self loop undi anuko,appudu aa node ki adjacents,
+check cheste "aa node aa node ke adjacent ga untadhi because,self loop kabatti,
+alantappudu aa child node(ADHE SAME NODE) parent avvadu,so loop exits ani vasthundi.
+3.Inko case loop unnappudu i.e ee node kaakunda vere node unnappudu loop lo.
+
+So ee two cases lo loop undi ani return chestav.
+
+
+//DFS forest ante ,Collection of trees for a graph.(Ante anni nodes connect avvavu kadha,when
+ graph has more than one component,so aa case lo more than one DFS trees vastayi and aa all DFS trees ni kalipithe adhi
+DFS forest avuthundi.So thus DFS forest ante collection of DFS trees.
+ALL TBR
+1.https://ide.geeksforgeeks.org/u5fQP60Ieq  //Basic Binary search
+2.https://ide.geeksforgeeks.org/fyV6CEg0BD   //Reverse Sorted Arraay.
+3.https://ide.geeksforgeeks.org/ZiomnHToQP   //First and last occurence of a index..inO(logn)but nenu upper bound and lower bound vaadanu
+4.https://ide.geeksforgeeks.org/rH4geypqJp    //Find First and last occurence in a sorted array.
+5.https://ide.geeksforgeeks.org/KfrdDKCSkp     //Search in sorted and rotated array.(TBR)(TBR)
+6.Count of an element in sorted and rotated array ante just difference between its first and last occurences.
+7.Infinite sorted array ante just high index ni yekkda pettali anedi kanukko by multiplying the high index by 2 all the time.
+So aa video chuudu infinite sorted array dhi ..Thats it completed this question.
+8.https://ide.geeksforgeeks.org/CJoQPjL0G8   //Peak element ni kanukkovatam using binary search  //Maximum element in bitonic array anna peak element anna same question.
+9.https://ide.geeksforgeeks.org/yEVIaGXzqe     //Search For an element in  bitonic array.
+10.https://ide.geeksforgeeks.org/ctCv6f6wd1     //(TBR)4m
+11.https://ide.geeksforgeeks.org/M46ofDGSlu    //Allocation of pages
+12.https://ide.geeksforgeeks.org/LJSCSt3KEv      //Painters partition problem
+13.https://ide.geeksforgeeks.org/rGvyvR6ZRU   //Killing spreee  
+14.1.https://ide.geeksforgeeks.org/AulLFQIPmq   //Bit Difference.
+2.https://ide.geeksforgeeks.org/Y3MSMqASP4   //Total set bits from 1 to  n.
+3.https://ide.geeksforgeeks.org/i8h2CzLqqQ       //Reverse bits.
+4.https://ide.geeksforgeeks.org/AdvLxixE8M       //Josephus Problem
+//0-1 Knapsack
+1.https://ide.geeksforgeeks.org/cAs1T9ahXF   //0-1 Knapsack Memoized.
+2.https://ide.geeksforgeeks.org/R1jyZnkVPN   //0-1 Knapsack Tabulation.
+3.https://ide.geeksforgeeks.org/WwFIZXCpPo   //Subset sum and Equal sum Partition
+4.https://ide.geeksforgeeks.org/lIRaRQZRsw   //Count subsets with given sum.
+5.https://ide.geeksforgeeks.org/6i9r2j0HTF        //Minimum sum partition.
+6.https://ide.geeksforgeeks.org/zoqKLNkIlM      //Subsets with given difference.(Total Array elements ni rendu sets lo consider chestadu chusko)
+7.https://ide.geeksforgeeks.org/SZvm6RhqUo    //Target sum.
+
+//Unbounded Knapsack.
+//Identification unlimited supply of each item.
+1.https://ide.geeksforgeeks.org/lp8H2rU3J1   //Unbounded knapsack.
+2.https://ide.geeksforgeeks.org/kFplp09Ahj   //Rod cutting problem.
+3.https://ide.geeksforgeeks.org/0G3ZrcXbd4   //Coin change problem.
+4.Minimum number of coins that are needed to form a particular sum.//Ee question ni cheyaledu.artham avvaledu,Adithya verma video.
+
+//Longest common subsequence question.
+Identification 2 strings and optimality.(Shortest or longest).
+1.https://ide.geeksforgeeks.org/0aihGoBo5S    //Longest common subsequence tabulation.
+2.https://ide.geeksforgeeks.org/p3txTQwOCg    //longest common substring.
+3.Printing the longest common subsequence chudaledu.Check that out.
+4.https://ide.geeksforgeeks.org/EedOtTqzcf   //Minimum number of insertions and minimum number of deletions to convert string a  to string b.
+5.https://ide.geeksforgeeks.org/89E9ZZr6wY   //Minimum number of deltions to make a string palindrome.
+6.Printing the shortest common supersequence cheyaledu.
+7.https://ide.geeksforgeeks.org/4HZIKPNq3y     //Longest repeating subsequence.
+8.https://ide.geeksforgeeks.org/zYciuEaq1l         //Minimum number of insertions to be made to convert a string into palindrome.
+
+//Matrix chain Multiplication:
+Deeniki 33rd video ni 20:00 nundi Chuudu.
+rendu Matrix ni multiply cheyalante yeh vidhanga parenthesize cheste
+neeku lesser number of operations lo complete cheyagalav anedi we have to calculate.
+Cost anna number of operations anna same.
+*N sized array ichchad ante n-1 matrices ichchadu ani.
+*How to identify ante, manaku "k" ane value daggara all the time break cheyalsina 
+avasaram vasthundi.So i to k k+1 to j ala break cheyalsina avasaram vaste 
+it is a variation of matrix chain mulitplication.
+*Ee problems lo partucular k daggara break cheyatam ante oka index daggara kada 
+k undedi so aa index included daani left side antha left part first function and aa index ki next index lo unna character nundi last lo unna
+j varaku inko solve function.
+1.https://ide.geeksforgeeks.org/PzvaHMWfBz //MCM memoized.(MCM brackets print chesedi chusko).
+2.https://ide.geeksforgeeks.org/yOUEQKobo2 //Palindrome partitioning.
+3.Scrambled string malli chuudu.
+4.//Backedge ane file ni chaduvu ee folder lone vundi.
+
+1.https://ide.geeksforgeeks.org/d16zstmf7j   //Array of vectors.
+2.https://ide.geeksforgeeks.org/iysAzAgR9c   //BFS of graph.
+3.https://ide.geeksforgeeks.org/CArqYkSaQK  //DFS of graph.
+4.https://ide.geeksforgeeks.org/LEF00ZyvD6    //Cycle in undirected graph.
+5.https://ide.geeksforgeeks.org/RfUiIXDM6q     //Cycle in directed graph.
+6.https://ide.geeksforgeeks.org/X3tbm3FAXM   //Topological sorting.
+7.https://ide.geeksforgeeks.org/aEqtgWvrPZ     //Strongly connected components.
+8.1.https://ide.geeksforgeeks.org/yZhbLFqzrh    //N Meetings In Room
+2.https://ide.geeksforgeeks.org/0gCMJEFWq5   //Job sequencing Problem
+3.https://ide.geeksforgeeks.org/a7AuZ98dUX   //Message Spreading
+4.https://ide.geeksforgeeks.org/ZQWGjxLA78    //Minimum platforms
+5.https://ide.geeksforgeeks.org/3URdhMNAoJ   //Find the smallest number that can be formed.
+6.https://www.geeksforgeeks.org/find-smallest-number-with-given-number-of-digits-and-digit-sum/
+Paina question was a bit tough so i left.
+7.https://ide.geeksforgeeks.org/Pe0pFo0oCY    //Minnimize the products.(use #define int long long)
+8.https://ide.geeksforgeeks.org/AbyfSSD535     //Activity selection problem.
+9.https://ide.geeksforgeeks.org/MRmGiWffOM    //Max length chain
+10.https://ide.geeksforgeeks.org/10NwfIj4Qi       //ishaan loves choclates.
+11.
+1.https://ide.geeksforgeeks.org/x5tz2dsIYa //Kindha question ni O(n^2) time lo.
+2.https://ide.geeksforgeeks.org/PDdxxGtlf0 //Count the subarrays with equal no of zeroes and ones in O(n) time with using extra space.
+3.https://ide.geeksforgeeks.org/PDdxxGtlf0  //Count the subarrays with the given sum handling negative numbers.
+4.Longest consecutive subsequence O(nlogn) lo solve cheyali ante just sort the array and then count the maximum length of consecutive numbers.
+5.https://ide.geeksforgeeks.org/kOKgC0fed6  //Above question using Hashing O(n) time but uses extra space.
+6.https://ide.geeksforgeeks.org/pFpsBC35MF    //Smallest window that has all the distinct characters of a string/
+7.https://ide.geeksforgeeks.org/yxbiaIcQBl        //Smallest window that has all the characters of another string.
+8.https://ide.geeksforgeeks.org/O822orm371    //Match specific pattern.
+9.https://ide.geeksforgeeks.org/k6iM4D4UD7    //Minimum indexed string.
+10.https://ide.geeksforgeeks.org/EN7Db5ZLgc   //Substrings with equal start and end.
+11.https://ide.geeksforgeeks.org/W3rSWXtVGU    //Unique numbers.
+12.https://ide.geeksforgeeks.org/detoLdttax          //Repeated character.
+13.https://ide.geeksforgeeks.org/iFcx4dPcQE      //Uncommon Character.
+14.https://ide.geeksforgeeks.org/PKjxtpCF2a      //Group anagrams together.
+15.https://ide.geeksforgeeks.org/clg1ebbvPS     //Subarray with zero sum.	
+16.https://ide.geeksforgeeks.org/sdxekdiDyU     //Largest subarray with sum=0;
+17.https://ide.geeksforgeeks.org/IwGgmtxvu8 //maximum product subarray in O(n^2).
+18.https://ide.geeksforgeeks.org/g9CQ1eIewS    //Kadanes algorithm for maximum contiguos subarray.
+19. https://ide.geeksforgeeks.org/bADbAiZex0    //Maximum product of array .(Batti pattu)
+20.https://ide.geeksforgeeks.org/Qqdt8WLcLl   //Find the first repeated character which has the least index.
+21.https://ide.geeksforgeeks.org/s62wiF0PzX    //2nd Array is the subset of another array.
+22.https://ide.geeksforgeeks.org/nRBJ0ZYQBd   //Subarray with zero sum.
+23.https://ide.geeksforgeeks.org/pxhenwIcru   //Count distinct elements in each and every window of size k.
+24.https://ide.geeksforgeeks.org/f4hA0HCAY4   //Anagram Palindrome.
+25.https://ide.geeksforgeeks.org/Uhaq5F88MA   //Count the number of elements in the intersection of two arrays.
+26.https://ide.geeksforgeeks.org/Gx1mzLJ4bC    //Keypair(Find if the pair exists with the givensum,i used two pointer technique.).
+27.https://ide.geeksforgeeks.org/tBMLumKmti     //O(n) using hashing above question.
+28.https://ide.geeksforgeeks.org/5DFhmPzJiJ     //IsBinary number a multiple of 3.
+29.https://ide.geeksforgeeks.org/9Gdm71dihg     //Longest k unique characters in a substring.
+30.https://ide.geeksforgeeks.org/jQNbw4k1dc     //Winner of  election.
+31.https://ide.geeksforgeeks.org/Ti3Qd0PU8w    //Longest substring with equal number of 0s and 1s 
+32.https://ide.geeksforgeeks.org/iJmgx4pq7t        //Longest subarray with sum divisible by k.
+33.https://ide.geeksforgeeks.org/8RifGbufnn        ///Maximum number of characters between any two same character 
+34.https://ide.geeksforgeeks.org/F0Z7vAexeg     //Frequencies of Limited Range Array Elements 
+35.https://ide.geeksforgeeks.org/HH5Zuefwug     //First non repeating character.
+36. 1.https://ide.geeksforgeeks.org/gMnMhM3owX //Kth smallest element ...in  nlogk
+2.https://ide.geeksforgeeks.org/SVGOZ0Z8Wr    //Find the smallest sum that can be formed with two numbers that are formed with
+elements of an array.
+3.https://ide.geeksforgeeks.org/FsnbvT39ax    //HEAP SORT (TBR)
+4.https://ide.geeksforgeeks.org/4fdC0KEBVk   //Kth largest element in the stream 
+5.//Remember linked list lo chaala questions extra space use chesi solve cheyachchu,So vaatini extra space use cheyakunda cheyataniki try chey.
+1.https://ide.geeksforgeeks.org/c1XNBgSvIc //count number of nodes in linked list
+2.https://ide.geeksforgeeks.org/TcIBnP9xap    //Count pairs with given sum .O(nlogn) kindha O(n) chesa.
+3.https://ide.geeksforgeeks.org/3TcW47JIa9   //O(n) above question
+4.https://ide.geeksforgeeks.org/SsDzDjttok	   //Add 1 to number represented by linked list.
+5.https://ide.geeksforgeeks.org/O7MPZNVYm1      //delete Alternate Nodes
+6.https://ide.geeksforgeeks.org/23IiyKvKv2           //Detect aa loop in linked list
+7.https://ide.geeksforgeeks.org/dRgSgSIfjc       //Given a linked list of 0's 1's and 2's
+8.https://ide.geeksforgeeks.org/pMAIsdhukq     //nth node from last.
+9.https://ide.geeksforgeeks.org/rQVBbjc8wY    //Delettion in doubly linked list.
+10.https://ide.geeksforgeeks.org/JDExCYCSdA   //Reverse a doubly linked list.
+11.https://ide.geeksforgeeks.org/urQEUJRqGc       //Swap kth elements.
+12.https://ide.geeksforgeeks.org/rejxHQfuxA      //Get middle elements
+13.https://ide.geeksforgeeks.org/eAHvPTRLvP//Remove loop in a linked list .
+14.https://ide.geeksforgeeks.org/QxPMgqzIrQ    //RearrangeLinked list
+15.https://ide.geeksforgeeks.org/Kag9fsFoeG //Delete Keysin linked list.
+16.https://ide.geeksforgeeks.org/ozMixS9pab   //Find n/k th node in linked list.
+17.https://ide.geeksforgeeks.org/qPmyGJSeQ2   //Modular Node
+18.https://ide.geeksforgeeks.org/zVnsihX4mO     //Length of loop.
+19.https://ide.geeksforgeeks.org/RA5oWfIpTd   //Length of loop using Turtle and hare concept.
+20.https://ide.geeksforgeeks.org/doczm5M0ky    //Clone a linked list with next and random pointers.
+21.https://ide.geeksforgeeks.org/wuGqWmXSkY    //Clone a linked list with next and random pointers.
+22. https://ide.geeksforgeeks.org/GE99YvXn0L     //Delete Without Head pointer
+23.https://ide.geeksforgeeks.org/bRI1wPa98k       //Check if the linked list is palindrome.(Turtle and Hare approach use chesi middle of linked list ni Kanukovahcchu,Gurthupettuko)
+24.https://ide.geeksforgeeks.org/yrO3FaVGHw     //Intersection of Y shaped linked list.
+25.https://ide.geeksforgeeks.org/lb1vEiOBrc       //Intersection of Y shaped linked list. O(1) space.
+26.https://ide.geeksforgeeks.org/1MvVeubUOa    //Remove duplicatesfrom linked list.
+27.https://ide.geeksforgeeks.org/fQGOv1tm2Y     //First non repeating character in a stream.(Check for best appraoch)
+28.https://ide.geeksforgeeks.org/hZChZu4zFu     //Flattening a linked list.(check for best approach)
+29.Reorder list check for the best appraoch.(Usually it can be done by using a  vector)
+30.https://ide.geeksforgeeks.org/R57X0PEkVR    //Given a linked list, reverse alternate nodes and append at the end.(Deeniki kuuda use best approach the approach that i have done is space consuming )
+31.https://ide.geeksforgeeks.org/bkLHgnxk1K     //Binary tree to DLL using extra space.
+32.https://ide.geeksforgeeks.org/cMaLlFgfhn     //Binary tree to DLL without extra space.
+31.https://ide.geeksforgeeks.org/l0DLe8TJlf      //Insert into sorted linked list.
+32.https://ide.geeksforgeeks.org/F63ikI50Ll       //Compare two linked lists.
+33.https://ide.geeksforgeeks.org/SrzkdVkCF7    //Check if the linked list is circular or not.
+34.https://ide.geeksforgeeks.org/kFeYo4LiRE    //Detect a loop in the linked list.
+35.https://ide.geeksforgeeks.org/tCwYYT6SOT  //print the contents of the linked list.
+36.https://ide.geeksforgeeks.org/JrLDmVLCOQ    //Sorted list insertion.
+37.https://ide.geeksforgeeks.org/L6VkW2MbmX    //Just identical aa kaadha ani check cheyatam.
+38.https://ide.geeksforgeeks.org/gfKcCIEBiI          //Delete middle of linked list.
+39.https://ide.geeksforgeeks.org/4hqQ8UBfyY     //Decimal equivalent of a linked list.
+40.https://ide.geeksforgeeks.org/KzTQ90yIwr     //Length of longest palindrome in linked list.
+41.1.https://ide.geeksforgeeks.org/gu46rLbsM2  //palindromic array.
+2.Range query ante find the minumum or maximum or sum for q ranges
+in array,Eee questions ni solve cheseki we use segment trees.Segment 
+tree first video matrame chusav so migathavi chuudu.EE concept last lo chey.
+3.1.https://ide.geeksforgeeks.org/3dqNb3QkVR     //Sum of bit differences O(n^2)
+2.https://ide.geeksforgeeks.org/C6K0TsyhSF      //Sum of bit differences O(n)
+3.https://ide.geeksforgeeks.org/3F9HyKV1cc      //Minimum Swaps to Sort
+4.https://ide.geeksforgeeks.org/jzBvLIPgV1       //rearrange array elements with O(1) space
+5.1.https://www.geeksforgeeks.org/program-nth-catalan-number/   //Catalan Number uses chusko.
+2.https://ide.geeksforgeeks.org/vGJQR7W85d   //Handshakes.
+1.Segment trees ni range queries problems ni  solve cheseki use chestam.
+2.Range Queries problems ni segment trees O(qlogn) time lo sort chestai,
+where q is the number of queries and n is the length of the array.
+3.Normal ga range queries problems will take O(qn) in worst case where q is the 
+number of queries and n is the number of elements in worst case in range.
+4.Segment tree lo number of nodes will depend upon length of segment 
+tree, if the length is power of 2 (i.e 2^0=1,2^1=2),So if the length is 1,2,4,8....
+then number of nodes in the segment tree is 2*len-1.
+5.If the length is not power of 2 then no of nodes=(next power of two greater than
+that number)*2-1; 
+6.(TBR) allcoz they are easy.
+
+1. https://ide.geeksforgeeks.org/nlJkqFL8Nq     //Stack designer
+2.https://ide.geeksforgeeks.org/Pymd1n3eZl     //Get minimum at each pop(TBR)
+3.https://ide.geeksforgeeks.org/F4PMQa1bGq  //Reverse k elements of queue.(TBR)
+4.https://ide.geeksforgeeks.org/DUZGkRY3tG //Reverse all elements of queue using stack.
+5.https://ide.geeksforgeeks.org/VoIZ1t1Ksk  //reverse a string using stack.
+6.https://ide.geeksforgeeks.org/53uiePv5Fj   //Evaluation of postfix expression.
+7.https://ide.geeksforgeeks.org/crmhSovT3H    //Sort a stack.
+8.https://ide.geeksforgeeks.org/TPMnXM6b6y   //Delete middle element from Stack in constant space.
+9.https://ide.geeksforgeeks.org/hFse1MNt0K     //Implement queue using 2 stacks.
+10.https://ide.geeksforgeeks.org/auAlnodX0V    //stack using two queues.
+11.https://ide.geeksforgeeks.org/5Qp2eUvu2I    //Parenthesis checker
+12.https://ide.geeksforgeeks.org/1p8oiY9n51    //Special stack.
+13.https://ide.geeksforgeeks.org/vKZiV3Twmn    //Celebrity Problem
+14.https://ide.geeksforgeeks.org/UEvyl75ULh     //Count the reversals Same as 11 th question .
+15.https://ide.geeksforgeeks.org/Vc9M0rBZs7     //Length of longest valid parenthesis.(Almost same as balanced or unbalanced but lengths updating alantivi chusko)
+16.https://ide.geeksforgeeks.org/wsx9hmeUTi //Save Gotham
+17.https://ide.geeksforgeeks.org/teF4nk3vid    //Maximum of minimum for every window size(8mQuesiton)(O(n) solution try kuuda cheyald)
+18.1.https://ide.geeksforgeeks.org/fO4VVFTS3w  //Binary array sorting.
+2.https://ide.geeksforgeeks.org/WEvnWKNg2W  //Union of two linked lists.
+3.https://ide.geeksforgeeks.org/uHNVbcfFYT     //Union of two linked lists.
+4.https://ide.geeksforgeeks.org/Xo846SF92b   //Bubble sort.
+5.https://ide.geeksforgeeks.org/StT6qCem0k    //Insertion Sort.
+6.https://ide.geeksforgeeks.org/EYI9b4L97a      //Maximum possible sum of products.
+7.https://ide.geeksforgeeks.org/5Eqg4FGarS   //Relative sorting.
+8.https://ide.geeksforgeeks.org/PyRHeW5ree    //Selection sort.
+9.https://ide.geeksforgeeks.org/edRJAMrqYe    //Bitonic generator sort.
+10.https://ide.geeksforgeeks.org/WXo40zOif8    //Check if array contains contiguous integers with duplicates allowed.
+11.https://ide.geeksforgeeks.org/zj3Yv3JLJC      //marks of PCM.
+12.https://ide.geeksforgeeks.org/jlvpTybzVM      //Merge sort of Doubly linked list.
+13..https://ide.geeksforgeeks.org/VhzmxjxlEB      //Quick sort . 
+14.https://ide.geeksforgeeks.org/YvUnz6Dcob     //Quick sort on Doubly linked list.
+15.1.https://ide.geeksforgeeks.org/DNoo59BftM   //Find the duplicate in an array of N integers. 
+2.https://ide.geeksforgeeks.org/j8L7QfjQP7   //Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
+3.https://ide.geeksforgeeks.org/mLmwx9UoH9   (level order traversal nerchuko ee appraoch ne template gaa vaadu anni level order questions lo)
+Trees lo main inorder,preorder,postorder,levelorder,recursion.Veetitho complete cheyachchu trees.
+
+1.https://ide.geeksforgeeks.org/1PVo7UyeMV     //Mirror tree
+2.https://ide.geeksforgeeks.org/CKzTMtn4bM     //Btree to CDLL
+3.https://ide.geeksforgeeks.org/LP03ELvfT7        //Level order traversal
+4.https://ide.geeksforgeeks.org/aYarGCroiF        //Level order traversal line by line.
+5.https://ide.geeksforgeeks.org/BIlGtN4HPV       //Reverse level order Traversal(StackCan be used here to reverse,But extra space is needed).
+6.https://ide.geeksforgeeks.org/XpeM4KZx70    //Right view of a binary tree.
+7.https://ide.geeksforgeeks.org/a0BlOZ7F1E     //left view of binary tree
+8.https://ide.geeksforgeeks.org/F4utqomQ1H    //check for BST (Note that ikkada i have used extra space and duplicates kuuda unnay chuusko).
+9.https://ide.geeksforgeeks.org/2ttXDL5Unf        //Sum of nodes of binary treehttps://ide.geeksforgeeks.org/to90ECct4G   
+10.https://ide.geeksforgeeks.org/Kxqup5fi0g      //is Sum tree
+11.https://ide.geeksforgeeks.org/I0nRjJ4u2T      //Add all greater values to every node in a BST
+12.https://ide.geeksforgeeks.org/fgV4b8JOvI      //Identical trees
+13.https://ide.geeksforgeeks.org/3WDHlJkI2w     //Check if Subtree
+14.https://ide.geeksforgeeks.org/uk8z0ZoVjz     //Connect Nodes at same level (Using extra space)
+15.https://ide.geeksforgeeks.org/NaA65aRINr   //O(1) space above question
+16.https://ide.geeksforgeeks.org/2j8lqvfSfw       //Make binary tree from LinkedList
+17.https://ide.geeksforgeeks.org/uYjW9Xbvs4    //Count subtrees with sum X O(n^2)Solution
+18.https://ide.geeksforgeeks.org/vlRtmHpe2A     //Count subtrees with sum X O(n^2)Solution (Recursive)
+19.https://ide.geeksforgeeks.org/D0wlCJB5SR   //Merge Sort
+20.https://ide.geeksforgeeks.org/WYbqrNSj8a    //Pairs Violating BST
+21.https://ide.geeksforgeeks.org/JMQQJK0lYe      //Print Nodes having k leaves
+22.https://ide.geeksforgeeks.org/mLmwx9UoH9     //Max level sum in Binary tree
+23.https://ide.geeksforgeeks.org/qYvHTSEDBN    //Root to leaf path sum(TBR)
+24. https://ide.geeksforgeeks.org/Uw4G4PZzrK      //k distance from root(using queue)
+25.https://ide.geeksforgeeks.org/0uhf2TUPYl          //recursive approach
+26.https://ide.geeksforgeeks.org/BRbPgvaGDG      //Vertical sum in binary tree(Awesome)
+27.https://ide.geeksforgeeks.org/to90ECct4G          //Print Common Nodes
+28.https://ide.geeksforgeeks.org/5S20zrBI45          //Leaf at same level
+29.https://ide.geeksforgeeks.org/2lvDqE3g0i         //Minimum Depth of binary tree.
+30.https://ide.geeksforgeeks.org/2yPFTqU1oB     //Symmetric Tree
+31.https://ide.geeksforgeeks.org/zLUAAVGD3F    //Inorder Traversal using Stack
+32.https://ide.geeksforgeeks.org/OX3UNFJFz4   //maximum node level.
+33.https://ide.geeksforgeeks.org/HZseJGvtlp       //odd even level Difference
+34.https://ide.geeksforgeeks.org/mySp3X1lsP   //Sum of leaf nodes at min level
+35.https://ide.geeksforgeeks.org/fGTeVU4oDm    //Left most and right most nodes in binary tree
+36.https://ide.geeksforgeeks.org/VU3txrBx88       //Left leaves Sum
+37.https://ide.geeksforgeeks.org/dedoOpoYmT    //Above Question recursive
+38.https://ide.geeksforgeeks.org/5iuGGp47Qw     //Maximum Width of Tree
+39.https://ide.geeksforgeeks.org/hzkm7ErWUr     //Nodes at odd levels.
+40.https://ide.geeksforgeeks.org/YFqYQ1220n    //Post order traversal.
+41.https://ide.geeksforgeeks.org/gM4BhrBaaN    //Preorder traversal.
+42.https://ide.geeksforgeeks.org/cpX5xDneZS     //Count non leaf nodes nUmber
+43.https://ide.geeksforgeeks.org/4NUo7k7TYS    //Sum of leaf nodes.
+44.https://ide.geeksforgeeks.org/FniutVCECa       //Check for BST.(Doesnt work,But see this).
+45.https://ide.geeksforgeeks.org/3cc6FzENUp     //Check for BST working.
+46.https://ide.geeksforgeeks.org/tt2O7Rvry8        //Print leaf nodes from preorder traversal of a binary  tree .
+47.https://ide.geeksforgeeks.org/hwX7y3HLTn    //Search for a node in binary search tree.
+48.https://ide.geeksforgeeks.org/ULcQRKOBA9    //Insert a node with data into binary search tree.
+49.https://ide.geeksforgeeks.org/1WisDRG5gH    //inserting a node into the linked list.
+50.https://ide.geeksforgeeks.org/R8fcWXbvdI    //Does inorder traversal represents bst.
+51.https://ide.geeksforgeeks.org/9WqCx7uHUI   //Sum of leaf nodes in binary search tree.
+52.https://ide.geeksforgeeks.org/F3bDonqwuT   //Kth largest element in BST.
+53.https://ide.geeksforgeeks.org/ivX7RndnSK    //Kth smallest element.
+54.https://ide.geeksforgeeks.org/BAe2WVUTHj   //Inorder successor of node.
+55.https://ide.geeksforgeeks.org/lsqOnJrNZ7      //is Binary tree a HEAP.
+56.https://ide.geeksforgeeks.org/DzH58J3Qk4   //Paina Question ki inko approach.
+57.https://ide.geeksforgeeks.org/pzKxdakpd0     //Is Binary tree a HEAP.
+58.https://ide.geeksforgeeks.org/W0nX7Ktqzy   //Find a pair with given sum.
+59.https://ide.geeksforgeeks.org/Vu9Sgbe9bZ   //Binary tree toBSt.
+60.https://ide.geeksforgeeks.org/nxeP6S4uFC   /Sum of k smallest elements in BST.
+61.1.https://ide.geeksforgeeks.org/8tCQgn6pvi     //Least common Ancestor,in Binary tree (NOT BST), using extra space.
+2.https://ide.geeksforgeeks.org/LEArx58HbE   //Least common Ancestor,in Binary tree (NOT BST), without using extra space.
+2.https://ide.geeksforgeeks.org/rnTP54QcQq   //LCA in BST.(recursive).(Deeniki extra space vaadi same as lca in Binary tree)
+3.https://ide.geeksforgeeks.org/hP43duEUYR   //Minimum distance between two nodes using extra space
+4.https://ide.geeksforgeeks.org/6JLiuSpgb6      //Minimum distance between two nodes without using Extra space.
+5.https://ide.geeksforgeeks.org/iN4DqO2obo    //Print all paths from Root to leafs.
+6.https://ide.geeksforgeeks.org/ACqaNbUepM    //Maximum of all subarrays of size k.
+
+
+
+//ivi combine chesina tarvaatha raasinavi.
+1.https://ide.geeksforgeeks.org/EYEBhOzbAu  //Element with left side smaller and right side greater.
+2.https://ide.geeksforgeeks.org/aH5dIpuhf7    //kadanes Algorithm.
+3.https://ide.geeksforgeeks.org/CcJDDe33HN    //Stock buy and sell.
+4.https://ide.geeksforgeeks.org/3p5LmVuEoU    //Grid unique paths.
+5.
