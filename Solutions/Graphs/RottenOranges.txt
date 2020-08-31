@@ -1,0 +1,56 @@
+class Solution {
+public:
+    bool issafe(int i,int j,int rows,int cols){
+        return (i>=rows || j>=cols || i<0 || j<0)?false:true;
+    }
+    
+    int orangesRotting(vector<vector<int>>& grid) {
+        if(grid.size()==0)
+            return 0;
+        int rows=grid.size();
+        int cols=grid[0].size();
+        
+        queue<pair<int,int> > q;
+        for(int i=0;i<rows;i++)
+            for(int j=0;j<cols;j++)
+                if(grid[i][j]==2)
+                    q.push({i,j});
+        
+        
+        int dir[4][2]={{0,-1},{0,1},{1,0},{-1,0}};
+        int count=-1;
+        while(!q.empty()){
+            int k=q.size();
+            while(k--){
+                pair<int,int>  front1=q.front();
+                q.pop();
+                int currenti=front1.first;
+                int currentj=front1.second;
+                for(int i=0;i<4;i++)
+                {
+                    int nexti=dir[i][0]+currenti;
+                    int nextj=dir[i][1]+currentj;
+                    if(issafe(nexti,nextj,rows,cols))
+                    {
+                        if(grid[nexti][nextj]==1)
+                        {
+                        grid[nexti][nextj]=2;
+                        q.push({nexti,nextj});
+                        }
+                    }
+                }
+            }
+            count++;
+        }
+        for(auto i:grid){
+            for(auto j:i){
+                if(j==1)
+                    return -1;
+            }
+        }
+        return count==-1?0:count;
+        
+        
+        
+    }
+};
