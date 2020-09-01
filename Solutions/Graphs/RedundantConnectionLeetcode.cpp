@@ -7,7 +7,7 @@
 // Ee koththa edge inkoti add chesam ante cycle form avuthundi kadha.So 
 // 6.Thus aa edge yedhi aa edge lo unna nodes yevi anedi kanukkovali adhe question.
 
-
+//Union find Time Complexity O(V+E)    ("Tech dose channel Youtube lo chuudu if any doubts")
 class Solution {
 public:
     vector<int> dsuf;                                       //Disjoint set union find ane peru ni short form lo raasa.Prathi node ki absoulute root kanukkovali       
