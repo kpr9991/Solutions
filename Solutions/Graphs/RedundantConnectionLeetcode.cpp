@@ -1,7 +1,12 @@
 //Just common sense.
-//Normal ga union find algorithm use chesi cycle undo ledho kanukkuntam kadha in the same way ikkada oka edge ni teesukogane,
-//aa edge lo unna nodes same set lo unnaya ledha ani kanukko ,if they are in the same set then cycle unnattu so aa nodes ni final vector loki veskoni 
-//answer return chey , else aa nodes ni union chey and form a single set.idhi normal union in union:find algorithm.
+//Union find algorithm use chesi chaala cheyachchu.
+// 2.Cycle detection in un-directed  graph ki use avuthundi.(Not for directed)
+// 3.Edges lo unna nodes ni one by one teesukuni aa nodes same set lo unnaya different set lo unnaya ani kanukkuntam.
+// 4.Yela ante aa two nodes ki absroots kanukkuntam and absroots same vaste aa two nodes okkate set lo unnattu.
+// 5.So if aa two nodes okkate set lo unnay anuko , aa two nodes already some way or the other connected ani ala vunte,
+// Ee koththa edge inkoti add chesam ante cycle form avuthundi kadha.So 
+// 6.Thus aa edge yedhi aa edge lo unna nodes yevi anedi kanukkovali adhe question.
+
 
 class Solution {
 public:
@@ -35,7 +40,9 @@ public:
                 final.push_back(node2);
                 return final;
             }
-            union_op(absroot1,absroot2);                               //Same kaakunte, absroots ni union chey.
+            union_op(absroot1,absroot2);                               //Absroots ni union cheyali yendukante akkada manam nodes ni join chesi graph build chestunnatuu.Oka node
+                                                                        //Two nodes ki same absroots ante rendu already vere node tho connected ani.Alantappudu ee koththa edge vesthe 
+                                                                          //cycle form avuthundi ga.Thats  it.
               
         }
         return final;
