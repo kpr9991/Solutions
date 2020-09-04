@@ -1,1 +1,1 @@
-#Solutions for 600 coding interview problems
+#Solutions for coding interview problems
