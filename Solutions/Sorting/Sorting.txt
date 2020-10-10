@@ -1,0 +1,15 @@
+1.https://ide.geeksforgeeks.org/fO4VVFTS3w  //Binary array sorting.
+2.https://ide.geeksforgeeks.org/WEvnWKNg2W  //Union of two linked lists.
+3.https://ide.geeksforgeeks.org/uHNVbcfFYT     //Union of two linked lists.
+4.https://ide.geeksforgeeks.org/Xo846SF92b   //Bubble sort.
+5.https://ide.geeksforgeeks.org/StT6qCem0k    //Insertion Sort.
+6.https://ide.geeksforgeeks.org/EYI9b4L97a      //Maximum possible sum of products.
+7.https://ide.geeksforgeeks.org/5Eqg4FGarS   //Relative sorting.
+8.https://ide.geeksforgeeks.org/PyRHeW5ree    //Selection sort.
+9.https://ide.geeksforgeeks.org/edRJAMrqYe    //Bitonic generator sort.
+10.https://ide.geeksforgeeks.org/WXo40zOif8    //Check if array contains contiguous integers with duplicates allowed.
+11.https://ide.geeksforgeeks.org/zj3Yv3JLJC      //marks of PCM.
+12.https://ide.geeksforgeeks.org/jlvpTybzVM      //Merge sort of Doubly linked list.
+13..https://ide.geeksforgeeks.org/VhzmxjxlEB      //Quick sort . 
+14.https://ide.geeksforgeeks.org/YvUnz6Dcob     //Quick sort on Doubly linked list.
+15.

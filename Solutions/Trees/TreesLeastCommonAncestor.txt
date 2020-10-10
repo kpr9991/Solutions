@@ -1,0 +1,7 @@
+1.https://ide.geeksforgeeks.org/8tCQgn6pvi     //Least common Ancestor,in Binary tree (NOT BST), using extra space.
+2.https://ide.geeksforgeeks.org/LEArx58HbE   //Least common Ancestor,in Binary tree (NOT BST), without using extra space.
+2.https://ide.geeksforgeeks.org/rnTP54QcQq   //LCA in BST.(recursive).(Deeniki extra space vaadi same as lca in Binary tree)
+3.https://ide.geeksforgeeks.org/hP43duEUYR   //Minimum distance between two nodes using extra space
+4.https://ide.geeksforgeeks.org/6JLiuSpgb6      //Minimum distance between two nodes without using Extra space.
+5.https://ide.geeksforgeeks.org/iN4DqO2obo    //Print all paths from Root to leafs.
+6.

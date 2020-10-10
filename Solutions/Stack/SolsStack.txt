@@ -1,0 +1,27 @@
+(TBR) allcoz they are easy.
+Stack problems lo extra space use cheyadhdhu ante recursion use chesey anthe.Because recursion anna stack anna okkate.
+
+1. https://ide.geeksforgeeks.org/nlJkqFL8Nq     //Stack designer
+2.https://ide.geeksforgeeks.org/Pymd1n3eZl     //Get minimum at each pop(TBR)
+3.https://ide.geeksforgeeks.org/F4PMQa1bGq  //Reverse k elements of queue.(TBR)
+4.https://ide.geeksforgeeks.org/DUZGkRY3tG //Reverse all elements of queue using stack.
+5.https://ide.geeksforgeeks.org/VoIZ1t1Ksk  //reverse a string using stack.
+6.https://ide.geeksforgeeks.org/53uiePv5Fj   //Evaluation of postfix expression.
+7.https://ide.geeksforgeeks.org/crmhSovT3H    //Sort a stack.
+Using recursion simple:-----https://www.geeksforgeeks.org/sort-a-stack-using-recursion/------Chusko.Just reverse a stack using recursion lagane.
+8.https://ide.geeksforgeeks.org/TPMnXM6b6y   //Delete middle element from Stack in constant space.
+9.https://ide.geeksforgeeks.org/hFse1MNt0K     //Implement queue using 2 stacks.
+10.https://ide.geeksforgeeks.org/auAlnodX0V    //stack using two queues.
+11.https://ide.geeksforgeeks.org/5Qp2eUvu2I    //Parenthesis checker
+12.https://ide.geeksforgeeks.org/1p8oiY9n51    //Special stack.
+13.https://ide.geeksforgeeks.org/cwvNg1IPXU    //Celebrity Problem
+14.https://ide.geeksforgeeks.org/UEvyl75ULh     //Count the reversals Same as 11 th question .
+15.https://ide.geeksforgeeks.org/Vc9M0rBZs7     //Length of longest valid parenthesis.(Almost same as balanced or unbalanced but lengths updating alantivi chusko)
+16.https://ide.geeksforgeeks.org/wsx9hmeUTi //Save Gotham
+17.https://ide.geeksforgeeks.org/teF4nk3vid    //Maximum of minimum for every window size(8mQuesiton)(O(n) solution try kuuda cheyald)
+
+Adithya verma:-----
+18.https://ide.geeksforgeeks.org/xMLYoqY7Si   //Next greater element on right.
+19.https://ide.geeksforgeeks.org/zShDFhq4bi   //Stock span problem.
+20.https://ide.geeksforgeeks.org/rwyvboY0Fe  //Maximum area in Histogram.
+21.https://ide.geeksforgeeks.org/dA5xEUvtjr   //Maximum rectangle  with 1's

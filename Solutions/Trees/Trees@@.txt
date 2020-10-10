@@ -1,0 +1,64 @@
+https://ide.geeksforgeeks.org/mLmwx9UoH9   (level order traversal nerchuko ee appraoch ne template gaa vaadu anni level order questions lo)
+Trees lo main inorder,preorder,postorder,levelorder,recursion.Veetitho complete cheyachchu trees.
+
+1.https://ide.geeksforgeeks.org/1PVo7UyeMV     //Mirror tree
+2.https://ide.geeksforgeeks.org/CKzTMtn4bM     //Btree to CDLL
+3.https://ide.geeksforgeeks.org/LP03ELvfT7        //Level order traversal
+4.https://ide.geeksforgeeks.org/aYarGCroiF        //Level order traversal line by line.
+5.https://ide.geeksforgeeks.org/BIlGtN4HPV       //Reverse level order Traversal(StackCan be used here to reverse,But extra space is needed).
+6.https://ide.geeksforgeeks.org/XpeM4KZx70    //Right view of a binary tree.
+7.https://ide.geeksforgeeks.org/a0BlOZ7F1E     //left view of binary tree
+8.https://ide.geeksforgeeks.org/F4utqomQ1H    //check for BST (Note that ikkada i have used extra space and duplicates kuuda unnay chuusko).
+9.https://ide.geeksforgeeks.org/2ttXDL5Unf        //Sum of nodes of binary treehttps://ide.geeksforgeeks.org/to90ECct4G   
+10.https://ide.geeksforgeeks.org/Kxqup5fi0g      //is Sum tree
+11.https://ide.geeksforgeeks.org/I0nRjJ4u2T      //Add all greater values to every node in a BST
+12.https://ide.geeksforgeeks.org/fgV4b8JOvI      //Identical trees
+13.https://ide.geeksforgeeks.org/3WDHlJkI2w     //Check if Subtree
+14.https://ide.geeksforgeeks.org/uk8z0ZoVjz     //Connect Nodes at same level (Using extra space)
+15.https://ide.geeksforgeeks.org/NaA65aRINr   //O(1) space above question
+16.https://ide.geeksforgeeks.org/2j8lqvfSfw       //Make binary tree from LinkedList
+17.https://ide.geeksforgeeks.org/uYjW9Xbvs4    //Count subtrees with sum X O(n^2)Solution
+18.https://ide.geeksforgeeks.org/vlRtmHpe2A     //Count subtrees with sum X O(n^2)Solution (Recursive)
+19.https://ide.geeksforgeeks.org/D0wlCJB5SR   //Merge Sort
+20.https://ide.geeksforgeeks.org/WYbqrNSj8a    //Pairs Violating BST
+21.https://ide.geeksforgeeks.org/JMQQJK0lYe      //Print Nodes having k leaves
+22.https://ide.geeksforgeeks.org/mLmwx9UoH9     //Max level sum in Binary tree
+23.https://ide.geeksforgeeks.org/qYvHTSEDBN    //Root to leaf path sum(TBR)
+24. https://ide.geeksforgeeks.org/Uw4G4PZzrK      //k distance from root(using queue)
+25.https://ide.geeksforgeeks.org/0uhf2TUPYl          //recursive approach
+26.https://ide.geeksforgeeks.org/BRbPgvaGDG      //Vertical sum in binary tree(Awesome)
+27.https://ide.geeksforgeeks.org/to90ECct4G          //Print Common Nodes
+28.https://ide.geeksforgeeks.org/5S20zrBI45          //Leaf at same level
+29.https://ide.geeksforgeeks.org/2lvDqE3g0i         //Minimum Depth of binary tree.
+30.https://ide.geeksforgeeks.org/2yPFTqU1oB     //Symmetric Tree
+31.https://ide.geeksforgeeks.org/zLUAAVGD3F    //Inorder Traversal using Stack
+32.https://ide.geeksforgeeks.org/OX3UNFJFz4   //maximum node level.
+33.https://ide.geeksforgeeks.org/HZseJGvtlp       //odd even level Difference
+34.https://ide.geeksforgeeks.org/mySp3X1lsP   //Sum of leaf nodes at min level
+35.https://ide.geeksforgeeks.org/fGTeVU4oDm    //Left most and right most nodes in binary tree
+36.https://ide.geeksforgeeks.org/VU3txrBx88       //Left leaves Sum
+37.https://ide.geeksforgeeks.org/dedoOpoYmT    //Above Question recursive
+38.https://ide.geeksforgeeks.org/5iuGGp47Qw     //Maximum Width of Tree
+39.https://ide.geeksforgeeks.org/hzkm7ErWUr     //Nodes at odd levels.
+40.https://ide.geeksforgeeks.org/YFqYQ1220n    //Post order traversal.
+41.https://ide.geeksforgeeks.org/gM4BhrBaaN    //Preorder traversal.
+42.https://ide.geeksforgeeks.org/cpX5xDneZS     //Count non leaf nodes nUmber
+43.https://ide.geeksforgeeks.org/4NUo7k7TYS    //Sum of leaf nodes.
+44.https://ide.geeksforgeeks.org/FniutVCECa       //Check for BST.(Doesnt work,But see this).
+45.https://ide.geeksforgeeks.org/3cc6FzENUp     //Check for BST working.
+46.https://ide.geeksforgeeks.org/tt2O7Rvry8        //Print leaf nodes from preorder traversal of a binary  tree .
+47.https://ide.geeksforgeeks.org/hwX7y3HLTn    //Search for a node in binary search tree.
+48.https://ide.geeksforgeeks.org/ULcQRKOBA9    //Insert a node with data into binary search tree.
+49.https://ide.geeksforgeeks.org/1WisDRG5gH    //inserting a node into the linked list.
+50.https://ide.geeksforgeeks.org/R8fcWXbvdI    //Does inorder traversal represents bst.
+51.https://ide.geeksforgeeks.org/9WqCx7uHUI   //Sum of leaf nodes in binary search tree.
+52.https://ide.geeksforgeeks.org/F3bDonqwuT   //Kth largest element in BST.
+53.https://ide.geeksforgeeks.org/ivX7RndnSK    //Kth smallest element.
+54.https://ide.geeksforgeeks.org/BAe2WVUTHj   //Inorder successor of node.
+55.https://ide.geeksforgeeks.org/lsqOnJrNZ7      //is Binary tree a HEAP.
+56.https://ide.geeksforgeeks.org/DzH58J3Qk4   //Paina Question ki inko approach.
+57.https://ide.geeksforgeeks.org/pzKxdakpd0     //Is Binary tree a HEAP.
+58.https://ide.geeksforgeeks.org/W0nX7Ktqzy   //Find a pair with given sum.
+59.https://ide.geeksforgeeks.org/Vu9Sgbe9bZ   //Binary tree toBSt.
+60.https://ide.geeksforgeeks.org/nxeP6S4uFC   /Sum of k smallest elements in BST.
+61.
