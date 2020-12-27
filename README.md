@@ -1,1 +1,1 @@
-#Solutions for coding interview problems
+#Solution for 480 Programming interview problems, with explanation.
